@@ -1,14 +1,13 @@
-# Anatomiapeli V8 – QA3.2
+# Anatomiapeli V8 – QA3.3
 
-QA3.2 on QA3:n toinen nuolikalibroinnin hotfix käyttäjän kuvapalautteen perusteella.
+QA3.3 on kolmas ja rajattu nuolikalibroinnin hotfix käyttäjän QA-kuvapalautteen perusteella.
 
 Korjatut kohteet:
 
-- **rintanikamat:** kohdepistettä siirretty selvästi vasemmalle varsinaisen rintanikama-alueen päälle
-- **ristiluu:** kohdepistettä siirretty selvästi vasemmalle ristiluun luupinnalle
-- **häntäluu:** kohdepistettä siirretty selvästi vasemmalle ja hieman alas suoraan coccyxiin
-- **miekkalisäke:** kohdepistettä siirretty alemmas sternumin distaaliseen processus xiphoideukseen
+- **rintanikamat:** kohdepistettä siirretty hieman vasemmalle selvästi rintanikaman luupinnan sisään
+- **häntäluu:** kohdepistettä siirretty reilusti vasemmalle ja hieman ylöspäin suoraan coccyxiin
+- **miekkalisäke:** kohdepistettä siirretty ylöspäin varsinaisen processus xiphoideuksen päälle
 
-Muut QA3.1-kysymykset on jätetty ennalleen.
+Ristiluu ja kaikki muut QA3.2-kysymykset on jätetty ennalleen.
 
 Kalibrointitila: `?calibrate=1`.
