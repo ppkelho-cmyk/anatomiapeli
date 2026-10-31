@@ -1,21 +1,13 @@
-# Anatomiapeli V8 – QA3
+# Anatomiapeli V8 – QA3.1
 
-QA2 on hyväksytty. QA3 lisää ensimmäisen selkäranka- ja rintakehäerän.
+QA3.1 on selkärangan ja rintakehän nuolikalibroinnin hotfix.
 
-Uudet QA3-kysymykset:
-- kaulanikamat
-- rintanikamat
-- lannenikamat
-- ristiluu
-- häntäluu
-- kylkiluut
-- rintalasta
-- miekkalisäke
+Korjatut kohteet:
+- rintanikamat: nuolen kärki pidemmälle rintanikama-alueelle
+- ristiluu: kärki selvemmin ristiluun luupinnalle
+- häntäluu: kärki ylös suoraan häntäluuhun
+- miekkalisäke: kärki alas sternumin alimpaan processus xiphoideukseen
 
-QA3 on tarkoituksella laadunvarmistuserä: testaa erityisesti A-nuolten kohdistus sekä Macilla että iPhonella. Atlas, axis ja yksittäisen nikaman osat tulevat QA4:ssä omilla lähikuvillaan.
-
-Kuvat:
-- DrJanaOfficial, *Segments of Vertebrae*, Wikimedia Commons, CC BY-SA 4.0.
-- Andrewmeyerson / BodyParts3D, *Human Skeleton Upper Body Anterior View*, Wikimedia Commons, CC BY-SA 3.0.
+Muut QA3-kysymykset ovat ennallaan.
 
 Kalibrointitila: `?calibrate=1`.
