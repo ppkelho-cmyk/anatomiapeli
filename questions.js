@@ -62,7 +62,12 @@ window.QUESTIONS=[
 ,
 
 // QA6.1 — jalkaterän luuryhmät. QA5 on lukittu 43 hyväksyttyyn kysymykseen.
-{qa:'QA6.1',status:'review',group:'Jalkaterä · QA6.1',a:'nilkan luut',la:'',d:['jalkapöydän luut','varpaiden luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:285,ty:370,lx:115,ly:230,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
-{qa:'QA6.1',status:'review',group:'Jalkaterä · QA6.1',a:'jalkapöydän luut',la:'',d:['nilkan luut','varpaiden luut','pohjeluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:520,ty:355,lx:500,ly:135,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
-{qa:'QA6.1',status:'review',group:'Jalkaterä · QA6.1',a:'varpaiden luut',la:'',d:['jalkapöydän luut','nilkan luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:785,ty:365,lx:840,ly:185,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'}
+{qa:'QA6.1',status:'locked',group:'Jalkaterä · QA6.1',a:'nilkan luut',la:'',d:['jalkapöydän luut','varpaiden luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:285,ty:370,lx:115,ly:230,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
+{qa:'QA6.1',status:'locked',group:'Jalkaterä · QA6.1',a:'jalkapöydän luut',la:'',d:['nilkan luut','varpaiden luut','pohjeluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:520,ty:355,lx:500,ly:135,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
+{qa:'QA6.1',status:'locked',group:'Jalkaterä · QA6.1',a:'varpaiden luut',la:'',d:['jalkapöydän luut','nilkan luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:785,ty:365,lx:840,ly:185,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'}
+
+,
+// QA7.1 — opiskelulistan vielä puuttuvat nikamaryhmät. QA1–QA6.1 lukittu: 46 hyväksyttyä kysymystä.
+{qa:'QA7.1',status:'review',group:'Selkäranka · QA7.1',a:'ristinikamat',la:'vertebrae sacrales (S1–5)',d:['lannenikamat','häntänikamat','ristiluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Segments_of_Vertebrae.svg/960px-Segments_of_Vertebrae.svg.png',w:960,h:1357,tx:245,ty:1045,lx:520,ly:1010,credit:'DrJanaOfficial · Wikimedia Commons · CC BY-SA 4.0'},
+{qa:'QA7.1',status:'review',group:'Selkäranka · QA7.1',a:'häntänikamat',la:'vertebrae coccygeae (Co1–5)',d:['ristinikamat','lannenikamat','häntäluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Segments_of_Vertebrae.svg/960px-Segments_of_Vertebrae.svg.png',w:960,h:1357,tx:175,ty:1165,lx:520,ly:1215,credit:'DrJanaOfficial · Wikimedia Commons · CC BY-SA 4.0'}
 ];
