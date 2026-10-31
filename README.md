@@ -1,4 +1,4 @@
-# Anatomiapeli V8 — QA9.5 fix 1
+# Anatomiapeli V8 — QA9.5 fix 2
 
 QA1–QA9.4 lukittu: **83 hyväksyttyä kysymystä**.
 
@@ -12,3 +12,8 @@ QA9.5:n kahdeksan kysymystä ovat edelleen `review`-tilassa.
 - muut viisi QA9.5-kysymystä pidetty ennallaan
 
 Yhteensä: **83 locked + 8 review = 91 kysymystä**.
+
+
+## QA9.5 fix 2
+
+Nuolikierros 2: kaksoiskantalihas, etumainen säärilihas, kaksipäinen reisilihas ja leveä kantalihas siirretty suoraan lihasrungolle käyttäjän QA-havaintojen perusteella. Puolikalvoinen, puolijänteinen, kolmipäinen pohjelihas ja akillesjänne jätetty ennalleen. Kaikki 8 QA9.5-kysymystä ovat edelleen review-tilassa.
