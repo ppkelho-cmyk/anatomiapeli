@@ -1,13 +1,20 @@
-# Anatomiapeli V8 — QA9.4 locked
+# Anatomiapeli V8 — QA9.5
 
 QA1–QA9.4 lukittu: **83 hyväksyttyä kysymystä**.
 
-## QA9.4 — reisi ja pakara
+## QA9.5 — reiden takaosa ja sääri
 
-Kaikki **9/9 QA9.4-kysymystä** on tarkastettu ja hyväksytty.
+Kahdeksan uutta kysymystä ovat `review`-tilassa:
 
-QA9.4 sisältää kahdeksan opiskeltavaa rakennetta sekä kaksi erilaista näkymää keskimmäisestä reisilihaksesta (vastus intermedius): Anatomography/BodyParts3D-animaation ja anatomisen poikkileikkauksen.
+- puolikalvoinen lihas
+- puolijänteinen lihas
+- kaksipäinen reisilihas
+- etumainen säärilihas
+- kolmipäinen pohjelihas
+- kaksoiskantalihas
+- leveä kantalihas
+- akillesjänne/kantajänne
 
-Kaikki QA9.4-kysymykset ovat nyt `locked`-tilassa.
+Kolmipäinen pohjelihas käyttää korostettua Anatomography/BodyParts3D-kuvaa ilman A-nuolta ja kysyy korostettua lihasryhmää. Muut kysymykset käyttävät A-nuolta.
 
-Yhteensä: **83 locked + 0 review = 83 kysymystä**.
+Kokonaismäärä: **91 = 83 locked + 8 review**.
