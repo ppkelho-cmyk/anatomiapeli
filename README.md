@@ -1,19 +1,24 @@
-# Anatomiapeli V8 – QA4.1 final
+# Anatomiapeli V8 – QA5
 
-QA1–QA3 on lukittu: 21 hyväksyttyä kysymystä. QA4.1 viimeistelee selkärankaerän ja nostaa kokonaismäärän 30 kysymykseen.
+QA1–QA4 on lukittu: **30 hyväksyttyä kysymystä**. QA5 aloittaa lantion ja alaraajan laadunvarmistuksen yhdeksällä perusrakenteella. Kokonaismäärä on nyt **39 kysymystä**.
 
-## QA4.1:n viimeiset parannukset
-- nikaman solmu: vaihdettu selkeään lannenikamien lateraalikuvaan
-- okahaarake: vaihdettu samaan lateraalikuvaan, jossa haarake hahmottuu sivulta
-- nikamaväliaukko: lisätty uutena opiskelulistan mukaisena kysymyksenä lateraalikuvaan
-- nikaman reikä, poikkihaarake ja nivelhaarakkeet säilyvät superior-kuvassa
-- atlas, axis ja nikamavälilevy säilyvät QA4:n hyväksytyissä kuvissa
+## QA5 – ensimmäinen erä
+- lonkkaluu, os coxae
+- suoliluu, os ilium
+- häpyluu, os pubis
+- istuinluu, os ischii
+- lonkkamalja
+- reisiluu, femur
+- polvilumpio, patella
+- sääriluu, tibia
+- pohjeluu, fibula
 
-Opiskelulistan terminologiaa noudatetaan sellaisenaan. Nikamaväliaukolle, nikaman solmulle ja haarakkeille ei lisätä latinaa, koska sitä ei anneta opiskelulistassa.
+Lantion viisi kysymystä käyttävät samaa nimeämätöntä lonkkaluun lateraalilähikuvaa eri A-nuolilla. Näin rakenne pitää tunnistaa sijainnista eikä valmiista tekstistä.
+
+Kun nämä kuvat ja nuolet on hyväksytty, QA5.1 lisää opiskelulistan loput alaraajan luurakenteet: iso/pieni sarvennoinen, sisä-/ulkokehräs sekä nilkan, jalkapöydän ja varpaiden luut.
 
 Kalibrointitila: `?calibrate=1`.
 
 ## Kuvien lisenssit
-- Atlas ja axis: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
-- Nimetön kaulanikaman superior-kuva: Andrewmeyerson / debivort, Wikimedia Commons, CC BY-SA 3.0.
-- Lannenikamien lateraalikuva: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+- Lantio, reisiluu, sääriluu ja pohjeluu: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+- Polvilumpio: Palica, Wikimedia Commons, public domain.
