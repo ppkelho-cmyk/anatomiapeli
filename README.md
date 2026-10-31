@@ -1,25 +1,23 @@
-# Anatomiapeli V8 — QA8.2
+# Anatomiapeli V8 — QA8.2 fix
 
-QA1–QA8.1 lukittu: **51 tarkistettua ja hyväksyttyä kysymystä**. QA8.1:n korppilisäkkeen tarkennus on hyväksytty ja siirretty `locked`-tilaan.
+QA1–QA8.1 on lukittu: 51 hyväksyttyä kysymystä.
 
-## QA8.2 — kallon kuusi uutta review-kysymystä
-
-- kitaluu
+QA8.2:n ensimmäisessä tarkistuksessa hyväksyttiin ja lukittiin:
 - kartiolisäke
-- poskiluu — os zygomaticum
-- yläleukaluu — maxilla
-- nenäluu — os nasale
-- kieliluu
 
-Yhteensä **57 kysymystä: 51 locked + 6 review**.
+Korjattavaksi jäivät review-tilaan:
+- kitaluu — nuolen kärki siirretty selvemmin vihreällä korostetun kitaluun keskelle
+- poskiluu — nuoli siirretty lateraalisemmaksi poskipään alueelle
+- yläleukaluu — nuoli siirretty selvästi maxillan alueelle
+- nenäluu — nuoli siirretty nenänselän luiseen osaan
+- kieliluu — rikkinäinen Wikimedia-osoite korjattu toimivaan Gray186.png-osoitteeseen
 
-Avaa **QA-tarkastus → Näytä vain review-kysymykset**, jolloin tarkastettavaksi tulevat vain QA8.2:n kuusi uutta kysymystä.
+Yhteensä 57 kysymystä: 52 locked + 5 review.
+
+Avaa **QA-tarkastus → Näytä vain review-kysymykset**. Tarkistettavaksi pitäisi tulla vain nämä viisi korjattua kysymystä.
 
 ## Kuvalähteet
-
-- Kitaluu: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP — `Sphenoid bone - lateral view.png`.
-- Kartiolisäke: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP — `Mastoid process - lateral view.png`.
-- Poskiluu, yläleukaluu ja nenäluu: LadyofHats / Jcwf, Wikimedia Commons, public domain — `Human skull nolables.svg`.
-- Kieliluu: Henry Vandyke Carter / Gray’s Anatomy, Wikimedia Commons, public domain — `Gray186.png`.
-
-QA8.2:n nuolet ovat tarkoituksella vielä `review`-tilassa ja tarkistetaan kuvista ennen lukitusta.
+- Kitaluu: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+- Kartiolisäke: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+- Poskiluu, yläleukaluu ja nenäluu: LadyofHats / Jcwf, Wikimedia Commons, public domain.
+- Kieliluu: Henry Vandyke Carter / Gray's Anatomy, Wikimedia Commons, public domain.
