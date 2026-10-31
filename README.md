@@ -1,13 +1,9 @@
-# Anatomiapeli V8 – QA2.2
+# Anatomiapeli V8 – QA2.3
 
-QA2.2 on yläraajan viimeinen nuolikalibroinnin hotfix ennen QA3-vaihetta.
+QA2.3 on yläraajan viimeinen kyynärluun nuolikalibroinnin hotfix.
 
-Korjattu käyttäjän QA-testin perusteella:
+- A-merkki ja nuolen tulosuunta pysyvät kuvan oikealla puolella.
+- Kyynärluun (ulna) kohdepistettä siirrettiin vielä lähemmäs luun rungon keskiosaa käyttäjän QA-kuvakaappauksen perusteella.
+- Muut kysymykset on jätetty ennalleen.
 
-- kyynärluun (ulna) A-merkki jää kuvan oikealle puolelle kuten ennen
-- nuolen tulosuunta säilyy samana
-- vain nuolen kohdepistettä on siirretty hieman vasemmalle, suoraan kyynärluun rungolle
-
-Muut QA2.1-kysymykset on jätetty ennalleen. Kalibrointitila säilyy osoitteen parametrilla `?calibrate=1`.
-
-Yläraajakuva: DrJanaOfficial, Wikimedia Commons, CC BY-SA 4.0. Kallokuva: LadyofHats / Jcwf, Wikimedia Commons, public domain.
+Kalibrointitila: `?calibrate=1`.
