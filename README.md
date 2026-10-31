@@ -1,13 +1,23 @@
-# Anatomiapeli V8 – QA3.3
+# Anatomiapeli V8 – QA4
 
-QA3.3 on kolmas ja rajattu nuolikalibroinnin hotfix käyttäjän QA-kuvapalautteen perusteella.
+QA1–QA3 on lukittu: 21 hyväksyttyä kysymystä. QA4 lisää 8 uutta selkärangan lähikuvakysymystä (yhteensä 29).
 
-Korjatut kohteet:
+## QA4-testattavat rakenteet
+- kannattajanikama, atlas
+- kiertäjänikama, axis
+- nikamavälilevy, discus intervertebralis
+- nikaman solmu
+- nikaman reikä
+- okahaarake
+- poikkihaarake
+- nivelhaarakkeet
 
-- **rintanikamat:** kohdepistettä siirretty hieman vasemmalle selvästi rintanikaman luupinnan sisään
-- **häntäluu:** kohdepistettä siirretty reilusti vasemmalle ja hieman ylöspäin suoraan coccyxiin
-- **miekkalisäke:** kohdepistettä siirretty ylöspäin varsinaisen processus xiphoideuksen päälle
+Opiskelulistan terminologiaa on noudatettu sellaisenaan: jos listassa ei ole latinankielistä nimeä, peli ei lisää sitä omasta tiedosta.
 
-Ristiluu ja kaikki muut QA3.2-kysymykset on jätetty ennalleen.
+Nikamaväliaukko sekä ristinikamat/häntänikamat jätetään seuraavaan tarkennuserään, koska niille halutaan oma yksiselitteinen kuva eikä samaa nuolta kuin ristiluulle/häntäluulle.
 
 Kalibrointitila: `?calibrate=1`.
+
+## Kuvien lisenssit
+- Atlas ja axis: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+- Nimetön kaulanikaman superior-kuva: Andrewmeyerson / debivort, Wikimedia Commons, CC BY-SA 3.0.
