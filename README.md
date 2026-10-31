@@ -1,19 +1,20 @@
-# Anatomiapeli V8 — QA9.3 fix 1
+# Anatomiapeli V8 — QA9.4
 
-**QA1–QA9.2 lukittu: 70 hyväksyttyä kysymystä.**
+**QA1–QA9.3 lukittu: 74 hyväksyttyä kysymystä.**
 
-## QA9.3 — vatsalihakset
+## QA9.4 — reisi ja pakara
 
-Neljä uutta `review`-kysymystä:
+Kahdeksan uutta `review`-kysymystä:
 
-- ulompi vino vatsalihas
-- sisempi vino vatsalihas
-- poikittainen vatsalihas
-- suora vatsalihas
+- räätälinlihas
+- nelipäinen reisilihas
+- suora reisilihas
+- ulompi reisilihas
+- sisempi reisilihas
+- keskimmäinen reisilihas
+- iso pakaralihas
+- keskimmäinen pakaralihas
 
-QA9.3:n jälkeen kysymyspankissa on 74 kysymystä: 70 locked + 4 review.
+QA9.4:n jälkeen kysymyspankissa on **82 kysymystä: 74 locked + 8 review**.
 
-
-## QA9.3 fix 1
-
-Nuolien kohdistusta tarkennettu: ulompi vino vatsalihas, sisempi vino vatsalihas ja poikittainen vatsalihas. Suora vatsalihas jätetty ennalleen. Kaikki neljä QA9.3-kysymystä ovat edelleen `review`-tilassa.
+Kuvissa käytetään avoimesti lisensoituja Wikimedia Commons / Gray’s Anatomy / Anatomography -lähteitä. Vastus intermedius on tarkoituksella omassa Anatomography-kuvassaan, jotta syvä lihas voidaan tunnistaa erillään pinnallisesta rectus femoriksesta.
