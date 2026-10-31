@@ -1,15 +1,13 @@
-# Anatomiapeli V8 — QA9.4 fix 2
+# Anatomiapeli V8 — QA9.4 fix 3
 
 QA1–QA9.3 lukittu: **74 hyväksyttyä kysymystä**.
 
-QA9.4:n kahdeksan kysymystä ovat edelleen `review`-tilassa.
+QA9.4:n yhdeksän kysymystä ovat edelleen `review`-tilassa.
 
-## Fix 2
-- **keskimmäinen reisilihas:** vaihdettu reisiluun kiinnitysaluekuva anatomiseen reiden poikkileikkauskuvaan; vastus intermedius näkyy lihaksena syvällä rectus femoriksen alla. Kuvan vastausta paljastava vasemman reunan teksti peitetään pelin overlaylla.
-- **iso pakaralihas:** nuoli siirretty punaisen gluteus maximus -lihasmassan päälle.
-- **ulompi reisilihas:** nuoli siirretty punaisen vastus lateralis -lihasmassan päälle.
-- **sisempi reisilihas:** nuolta laskettu distaalisemmaksi punaisen vastus medialis -lihasmassan päälle.
+## Fix 3
 
-Muut QA9.4-kysymykset ennallaan.
+- keskimmäinen reisilihas: poikkileikkauskuva säilytetty; sen rinnalle lisätty Anatomography / BodyParts3D -näkymä vastus intermediuksesta
+- räätälinlihas: nuolenkärkeä siirretty takaisin lihaksen keskelle
+- muut QA9.4-kysymykset pidetty Fix 2:n mukaisina
 
-Kokonaismäärä: **82 = 74 locked + 8 review**.
+Yhteensä: **74 locked + 9 review = 83 kysymystä**.
