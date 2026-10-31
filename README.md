@@ -1,20 +1,16 @@
-# Anatomiapeli V8 — QA9.4
+# Anatomiapeli V8 — QA9.4 fix 1
 
-**QA1–QA9.3 lukittu: 74 hyväksyttyä kysymystä.**
+QA1–QA9.3 lukittu: **74 hyväksyttyä kysymystä**.
 
 ## QA9.4 — reisi ja pakara
 
-Kahdeksan uutta `review`-kysymystä:
+Kahdeksan kysymystä ovat edelleen `review`-tilassa.
 
-- räätälinlihas
-- nelipäinen reisilihas
-- suora reisilihas
-- ulompi reisilihas
-- sisempi reisilihas
-- keskimmäinen reisilihas
-- iso pakaralihas
-- keskimmäinen pakaralihas
+Fix 1:
+- sisempi reisilihas: nuoli siirretty suoraan vastus medialiksen päälle
+- ulompi reisilihas: nuoli siirretty suoraan vastus lateraliksen päälle
+- keskimmäinen pakaralihas: nuoli siirretty keskelle gluteus mediusta
+- keskimmäinen reisilihas: pyörivä GIF poistettu ja vaihdettu staattiseen public domain -kuvaan
+- iso pakaralihas: syvä/poisleikattu näkymä vaihdettu kuvaan, jossa gluteus maximus näkyy kokonaisena
 
-QA9.4:n jälkeen kysymyspankissa on **82 kysymystä: 74 locked + 8 review**.
-
-Kuvissa käytetään avoimesti lisensoituja Wikimedia Commons / Gray’s Anatomy / Anatomography -lähteitä. Vastus intermedius on tarkoituksella omassa Anatomography-kuvassaan, jotta syvä lihas voidaan tunnistaa erillään pinnallisesta rectus femoriksesta.
+Yhteensä: **74 locked + 8 review = 82 kysymystä**.
