@@ -59,4 +59,10 @@ window.QUESTIONS=[
 {group:'Lantio ja alaraaja · QA5.3',a:'pieni sarvennoinen',la:'trochanter minor',d:['iso sarvennoinen','reisiluu','lonkkamalja'],img:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Superior%20epiphysis%20-%20posterior%20view.jpg?width=960',w:960,h:720,tx:420,ty:495,lx:790,ly:520,credit:'Anatomist90 · Wikimedia Commons · CC BY-SA 3.0'},
 {group:'Lantio ja alaraaja · QA5.5',a:'sisäkehräs',la:'',d:['ulkokehräs','sääriluu','pohjeluu'],img:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Leg%20and%20foot%20anterior.svg?width=960',w:960,h:1357,tx:535,ty:1100,lx:800,ly:1040,credit:'Athikhun.suw · Wikimedia Commons · CC BY-SA 4.0'},
 {group:'Lantio ja alaraaja · QA5.5',a:'ulkokehräs',la:'',d:['sisäkehräs','sääriluu','pohjeluu'],img:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Leg%20and%20foot%20anterior.svg?width=960',w:960,h:1357,tx:370,ty:1110,lx:115,ly:1040,credit:'Athikhun.suw · Wikimedia Commons · CC BY-SA 4.0'}
+,
+
+// QA6.1 — jalkaterän luuryhmät. QA5 on lukittu 43 hyväksyttyyn kysymykseen.
+{group:'Jalkaterä · QA6.1',a:'nilkan luut',la:'',d:['jalkapöydän luut','varpaiden luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:285,ty:370,lx:115,ly:230,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
+{group:'Jalkaterä · QA6.1',a:'jalkapöydän luut',la:'',d:['nilkan luut','varpaiden luut','pohjeluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:520,ty:355,lx:500,ly:135,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'},
+{group:'Jalkaterä · QA6.1',a:'varpaiden luut',la:'',d:['jalkapöydän luut','nilkan luut','sääriluu'],img:'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Skeleton_foot.JPG/960px-Skeleton_foot.JPG',w:960,h:718,tx:785,ty:365,lx:840,ly:185,credit:'Minervaaa · Wikimedia Commons · CC BY-SA 3.0'}
 ];

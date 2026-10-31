@@ -1,24 +1,17 @@
-# Anatomiapeli V8 – QA5.6
+# Anatomiapeli V8 – QA6.1
 
-QA1–QA4 pääosin lukittu. QA5.5:ssa on 43 kysymystä.
+**QA5 lukittu: 43 tarkistettua ja hyväksyttyä kysymystä.**
 
-## QA5.5 – korjauskierros
+QA6.1 lisää kolme uutta jalkaterän luuryhmää. Aiempiin 43 kysymykseen ei ole tehty muutoksia.
 
-- pohjeluu: nuoli siirretty selvästi fibulan rungon päälle
-- sääriluu: nuoli siirretty tibian rungon keskelle
-- sisäkehräs: nuoli siirretty distaaliseen mediaaliseen kehräkseen
-- ulkokehräs: nuoli siirretty fibulan distaaliseen kehräkseen
-- polvilumpio: nuoli nostettu patellan päälle polvikuvassa
-- nivelhaarakkeet: vaihdettu lateraaliseen lannerankakuvaan, jossa fasettinivelet erottuvat paremmin
-- solisluu: vanha yläraajakokonaiskuva vaihdettu suureen, selkeään clavicula-lähikuvaan
+## QA6.1 — jalkaterän luuryhmät
 
-Muita kysymyksiä ei ole muutettu.
+- nilkan luut
+- jalkapöydän luut
+- varpaiden luut
 
+Kaikki kolme käyttävät samaa jalkaterän luustokuvaa, jotta ryhmien sijainti suhteessa toisiinsa säilyy näkyvänä.
 
-## QA5.6 — solisluun kontekstikorjaus
+Kuva: Minervaaa, *Skeleton foot.JPG*, Wikimedia Commons, CC BY-SA 3.0.
 
-- solisluu vaihdettu irrallisesta lähikuvasta ylävartalon anterioriseen kuvaan
-- kuvassa näkyvät solisluun lisäksi lapaluut, olkaluut, rintalasta ja kylkiluut anatomisen orientaation tueksi
-- A-nuoli osoittaa solisluun runkoon
-- muut QA5.5-kysymykset pidetty ennallaan
-- kuva: Andrewmeyerson / BodyParts3D, Wikimedia Commons, CC BY-SA 3.0
+**Kysymyksiä yhteensä: 46.**
