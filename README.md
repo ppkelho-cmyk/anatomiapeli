@@ -1,14 +1,13 @@
-# Anatomiapeli V8 — QA9.4 fix 4
+# Anatomiapeli V8 — QA9.4 locked
 
-QA1–QA9.3 lukittu: **74 hyväksyttyä kysymystä**.
+QA1–QA9.4 lukittu: **83 hyväksyttyä kysymystä**.
 
-QA9.4:n yhdeksän kysymystä ovat edelleen `review`-tilassa.
+## QA9.4 — reisi ja pakara
 
-## Fix 4
+Kaikki **9/9 QA9.4-kysymystä** on tarkastettu ja hyväksytty.
 
-- **keskimmäinen reisilihas, Anatomography-GIF:** A-nuoli poistettu kokonaan. Kysymysteksti on nyt **“Mikä rakenne on korostettu kuvassa?”**
-- pyörivä GIF säilytetty, jotta vastus intermediuksen muoto ja sijainti näkyvät useasta suunnasta
-- keskimmäisen reisilihaksen poikkileikkauskysymys säilytetty A-nuolikysymyksenä
-- muut kahdeksan QA9.4-kysymystä pidetty Fix 3:n mukaisina
+QA9.4 sisältää kahdeksan opiskeltavaa rakennetta sekä kaksi erilaista näkymää keskimmäisestä reisilihaksesta (vastus intermedius): Anatomography/BodyParts3D-animaation ja anatomisen poikkileikkauksen.
 
-Yhteensä: **74 locked + 9 review = 83 kysymystä**.
+Kaikki QA9.4-kysymykset ovat nyt `locked`-tilassa.
+
+Yhteensä: **83 locked + 0 review = 83 kysymystä**.
