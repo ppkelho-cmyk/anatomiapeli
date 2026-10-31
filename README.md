@@ -1,26 +1,20 @@
-# Anatomiapeli V8 — QA9.1 fix 1
+# Anatomiapeli V8 — QA9.2
 
-QA1–QA8.2 lukittu: **56 hyväksyttyä kysymystä**.
+QA1–QA9.1 lukittu: **64 hyväksyttyä kysymystä**.
 
-## QA9.1 — pään ja kaulan lihakset
+## QA9.2 — ylävartalon ja yläraajan lihakset
 
-Kahdeksan uutta `review`-kysymystä:
-- otsalihas
-- ohimolihas
-- takaraivolihas
-- puremalihas
-- silmän kehälihas
-- suun kehälihas
-- kaulan iholihas
-- päänkiertäjälihas
+Kuusi uutta `review`-kysymystä:
 
-Yhteensä **64 kysymystä: 56 locked + 8 review**.
+- iso rintalihas
+- hartialihas
+- leveä selkälihas
+- epäkäslihas
+- hauislihas
+- kolmipäinen olkalihas
 
-QA-tarkastus → **Näytä vain review-kysymykset** näyttää vain QA9.1:n kahdeksan uutta kysymystä.
+Yhteensä: **70 kysymystä = 64 locked + 6 review**.
 
-Lähteet: Anatomography / BodyParts3D (CC BY-SA 2.1 JP) sekä Gray’s Anatomy -pohjaiset public domain -kuvat Wikimedia Commonsista. Opiskelulistassa näille lihaksille ei anneta latinankielisiä nimiä, joten pelissä vaaditaan vain suomenkieliset nimet.
+Kuvat ovat Wikimedia Commonsista. QA9.2 käyttää Anatomography / BodyParts3D -kuvia (CC BY-SA 2.1 JP) sekä Chrizz/Nikai-lihaskuvia (CC BY-SA 3.0 / GFDL).
 
-
-## QA9.1 fix 1
-
-Nuolenkärjet tarkennettu suoraan kohdelihakseen: päänkiertäjälihas, takaraivolihas, puremalihas ja suun kehälihas. Muut QA9.1-kysymykset pidetty review-tilassa ennallaan. Kaulan iholihaksen lähdekuvaa ei muokattu anatomisen luotettavuuden säilyttämiseksi.
+QA-tarkastuksessa arvioidaan erityisesti A-nuolen osumatarkkuus ennen QA9.2:n lukitsemista.
