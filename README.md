@@ -1,4 +1,4 @@
-# Anatomiapeli V8 – QA5.5
+# Anatomiapeli V8 – QA5.6
 
 QA1–QA4 pääosin lukittu. QA5.5:ssa on 43 kysymystä.
 
@@ -13,3 +13,12 @@ QA1–QA4 pääosin lukittu. QA5.5:ssa on 43 kysymystä.
 - solisluu: vanha yläraajakokonaiskuva vaihdettu suureen, selkeään clavicula-lähikuvaan
 
 Muita kysymyksiä ei ole muutettu.
+
+
+## QA5.6 — solisluun kontekstikorjaus
+
+- solisluu vaihdettu irrallisesta lähikuvasta ylävartalon anterioriseen kuvaan
+- kuvassa näkyvät solisluun lisäksi lapaluut, olkaluut, rintalasta ja kylkiluut anatomisen orientaation tueksi
+- A-nuoli osoittaa solisluun runkoon
+- muut QA5.5-kysymykset pidetty ennallaan
+- kuva: Andrewmeyerson / BodyParts3D, Wikimedia Commons, CC BY-SA 3.0
