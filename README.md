@@ -1,14 +1,17 @@
-# Anatomiapeli V8 — QA7.1
+# Anatomiapeli V8 — QA8.1
 
-**QA1–QA6.1 lukittu: 46 tarkistettua ja hyväksyttyä kysymystä.** Niiden anatomista sisältöä, kuvia tai nuolia ei ole muutettu. QA6.1:n kolme hyväksyttyä jalkateräkysymystä on siirretty `review` → `locked`.
+**QA1–QA7.1 lukittu: 48 tarkistettua ja hyväksyttyä kysymystä.** QA7.1:n kaksi hyväksyttyä kysymystä on siirretty `review` → `locked`. Aiemman 48 kysymyksen anatomista sisältöä, kuvia tai nuolia ei ole muutettu.
 
-## QA7.1 — kaksi uutta review-kysymystä
+## QA8.1 — lapaluun kolme uutta review-kysymystä
 
-- ristinikamat — vertebrae sacrales (S1–5)
-- häntänikamat — vertebrae coccygeae (Co1–5)
+- olkalisäke
+- korppilisäke
+- lapaluun harju
 
-Yhteensä 48 kysymystä: **46 locked + 2 review**.
+Yhteensä 51 kysymystä: **48 locked + 3 review**.
 
-Avaa **QA-tarkastus → Näytä vain review-kysymykset**, jolloin tarkastettavaksi tulevat vain QA7.1:n kaksi uutta kysymystä.
+Avaa **QA-tarkastus → Näytä vain review-kysymykset**, jolloin tarkastettavaksi tulevat vain QA8.1:n kolme uutta kysymystä.
 
-Kuva: DrJanaOfficial, Wikimedia Commons, CC BY-SA 4.0 (`Segments_of_Vertebrae.svg`).
+Kuva: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP (`Right scapula - close-up - posterior view.png`).
+
+Opiskelulistan mukaisesti näille kolmelle rakenteelle ei lisätä latinankielistä nimeä, koska listassa ne on annettu vain suomeksi.
