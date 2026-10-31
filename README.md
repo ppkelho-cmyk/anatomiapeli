@@ -1,17 +1,21 @@
-# Anatomiapeli V8 — QA8.2 fix 2
+# Anatomiapeli V8 — QA9.1
 
-QA1–QA8.1 lukittu: 51 hyväksyttyä kysymystä.
+QA1–QA8.2 lukittu: **56 hyväksyttyä kysymystä**.
 
-QA8.2:
-- **kartiolisäke** hyväksytty → `locked`
-- **kitaluu**: A-nuolen kärki siirretty selvästi vihreälle kitaluulle → `review`
-- **poskiluu — os zygomaticum**: vaihdettu puhtaaseen Anatomography-kuvaan ilman vanhan kallokuvan punaisia apuviivoja → `review`
-- **yläleukaluu — maxilla**: vaihdettu puhtaaseen Anatomography-kuvaan ilman punaisia apuviivoja → `review`
-- **nenäluu — os nasale**: vaihdettu puhtaaseen Anatomography-kuvaan ilman punaisia apuviivoja → `review`
-- **kieliluu** poistettu pelistä käyttäjän päätöksellä.
+## QA9.1 — pään ja kaulan lihakset
 
-Yhteensä **56 kysymystä: 52 locked + 4 review**.
+Kahdeksan uutta `review`-kysymystä:
+- otsalihas
+- ohimolihas
+- takaraivolihas
+- puremalihas
+- silmän kehälihas
+- suun kehälihas
+- kaulan iholihas
+- päänkiertäjälihas
 
-QA-tarkastus → **Näytä vain review-kysymykset** näyttää vain nämä neljä tarkistettavaa.
+Yhteensä **64 kysymystä: 56 locked + 8 review**.
 
-Uudet kallokuvat: Anatomography / BodyParts3D, Wikimedia Commons, CC BY-SA 2.1 JP.
+QA-tarkastus → **Näytä vain review-kysymykset** näyttää vain QA9.1:n kahdeksan uutta kysymystä.
+
+Lähteet: Anatomography / BodyParts3D (CC BY-SA 2.1 JP) sekä Gray’s Anatomy -pohjaiset public domain -kuvat Wikimedia Commonsista. Opiskelulistassa näille lihaksille ei anneta latinankielisiä nimiä, joten pelissä vaaditaan vain suomenkieliset nimet.
