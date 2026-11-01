@@ -6,7 +6,8 @@ function start(list,filter='all'){qs=shuffle(list);i=0;score=0;locked=false;curr
 function overlay(q){
   const masks=q.masks|| (q.mask?[q.mask]:[]); const mask=masks.map(m=>`<rect x="${m[0]}" y="${m[1]}" width="${m[2]}" height="${m[3]}" fill="white"/>`).join('');
   let hi='';
-  if(q.highlight){const h=q.highlight;if(h.type==='ellipse')hi=`<ellipse cx="${h.cx}" cy="${h.cy}" rx="${h.rx}" ry="${h.ry}" fill="rgba(250,204,21,.42)" stroke="#f59e0b" stroke-width="5"/>`;else if(h.type==='polygon')hi=`<polygon points="${h.points}" fill="rgba(250,204,21,.42)" stroke="#f59e0b" stroke-width="5" stroke-linejoin="round"/>`;}
+  const highlights=q.highlights|| (q.highlight?[q.highlight]:[]);
+  hi=highlights.map(h=>{const fill=h.fill||'rgba(250,204,21,.42)',stroke=h.stroke||'#f59e0b',sw=h.strokeWidth||5;if(h.type==='ellipse')return `<ellipse cx="${h.cx}" cy="${h.cy}" rx="${h.rx}" ry="${h.ry}" fill="${fill}" stroke="${stroke}" stroke-width="${sw}"/>`;if(h.type==='polygon')return `<polygon points="${h.points}" fill="${fill}" stroke="${stroke}" stroke-width="${sw}" stroke-linejoin="round"/>`;return ''}).join('');
   if(q.noArrow)return (mask||hi)?`<svg class="overlay" viewBox="0 0 ${q.w} ${q.h}" preserveAspectRatio="xMidYMid meet">${mask}${hi}</svg>`:'';
   return `<svg class="overlay" viewBox="0 0 ${q.w} ${q.h}" preserveAspectRatio="xMidYMid meet"><defs><marker id="ah" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#ef4444"/></marker></defs>${mask}${hi}<line x1="${q.lx}" y1="${q.ly}" x2="${q.tx}" y2="${q.ty}" stroke="#ef4444" stroke-width="4" marker-end="url(#ah)"/><circle cx="${q.tx}" cy="${q.ty}" r="8" fill="white" stroke="#ef4444" stroke-width="5"/><rect x="${q.lx-18}" y="${q.ly-20}" rx="7" width="36" height="30" fill="#ef4444"/><text x="${q.lx}" y="${q.ly+2}" text-anchor="middle" fill="white" font-size="22" font-weight="800">A</text></svg>`}
 
