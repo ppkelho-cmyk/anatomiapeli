@@ -1,19 +1,13 @@
-# Anatomiapeli V8 — QA9.5 fix 2
+# Anatomiapeli V8 — QA9.5 fix 3
 
 QA1–QA9.4 lukittu: **83 hyväksyttyä kysymystä**.
 
-QA9.5:n kahdeksan kysymystä ovat edelleen `review`-tilassa.
+QA9.5 sisältää **8 review-kysymystä**. Yhteensä **83 locked + 8 review = 91 kysymystä**.
 
-## Fix 1
+## Fix 3
 
-- **puolikalvoinen lihas:** A-nuoli siirretty suoraan korostetun lihaksen päälle
-- **akillesjänne/kantajänne:** A-nuoli siirretty keskellä kulkevalle varsinaiselle akillesjänteelle
-- **kolmipäinen pohjelihas:** vastaustekstit sisältänyt staattinen kuva vaihdettu Anatomography/BodyParts3D-animaatioon; kysymys säilyy korostetun lihasryhmän tunnistuksena ilman A-nuolta
-- muut viisi QA9.5-kysymystä pidetty ennallaan
+- **kaksoiskantalihas:** vaihdettu puhtaaseen Anatomography/BodyParts3D-kuvaan ilman kuvassa näkyvää *Gastrocnemius*-vastaustekstiä. Koska kohdelihas on yksin korostettu punaisella, kysymys käyttää muotoa **“Mikä rakenne on korostettu kuvassa?”** ilman A-nuolta.
+- **etumainen säärilihas:** rikkoutunut kuvalinkki korvattu toimivalla Anatomography/BodyParts3D-kuvalla. Kohdelihas on selvästi korostettu, joten myös tämä käyttää korostuskysymystä ilman A-nuolta.
+- Muut kuusi QA9.5-kysymystä on jätetty ennalleen fix 2:sta.
 
-Yhteensä: **83 locked + 8 review = 91 kysymystä**.
-
-
-## QA9.5 fix 2
-
-Nuolikierros 2: kaksoiskantalihas, etumainen säärilihas, kaksipäinen reisilihas ja leveä kantalihas siirretty suoraan lihasrungolle käyttäjän QA-havaintojen perusteella. Puolikalvoinen, puolijänteinen, kolmipäinen pohjelihas ja akillesjänne jätetty ennalleen. Kaikki 8 QA9.5-kysymystä ovat edelleen review-tilassa.
+Kuvat: Wikimedia Commons / Anatomography / BodyParts3D, CC BY-SA 2.1 JP.
