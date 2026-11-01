@@ -1,13 +1,11 @@
-# Anatomiapeli V8 — QA9.5 fix 6
+# Anatomiapeli V8 — QA9.5 locked
 
-QA1–QA9.4 lukittu: **83 hyväksyttyä kysymystä**.
+QA1–QA9.5 on lukittu: **91 hyväksyttyä kysymystä**.
 
-QA9.5 sisältää **8 review-kysymystä**. Yhteensä **83 locked + 8 review = 91 kysymystä**.
+## QA9.5
 
-## Fix 6
+QA9.5 sisältää **8/8 tarkistettua ja hyväksyttyä kysymystä**. Kaikki QA9.5-kysymykset ovat nyt `locked`-tilassa.
 
-- QA9.1: kaikista kahdeksasta pään ja kaulan lihaskysymyksestä poistettu A-nuoli. Kysymysmuoto on **“Mikä rakenne on korostettu kuvassa?”**. Kysymykset säilyvät locked-tilassa.
-- QA9.3: suoran vatsalihaksen kysymyksestä poistettu A-nuoli ja vaihdettu samaan korostuskysymysmuotoon. Kysymys säilyy locked-tilassa.
-- QA9.5: fix 5:n hyväksytyt kuvat, kysymykset ja korostukset säilytetty ennallaan; kaikki kahdeksan ovat vielä review-tilassa lopullista lukitusta varten.
+Lihaskysymysten yhtenäinen linja: kun kohderakenne on kuvassa yksiselitteisesti värikorostettu, kysymys käyttää muotoa **“Mikä rakenne on korostettu kuvassa?”** ilman turhaa A-nuolta tai viivaa. Nuolta käytetään vain silloin, kun sitä tarvitaan rakenteen yksilöimiseen.
 
-Periaate: kun kohdelihas on kuvassa yksiselitteisesti korostettu, tunnistus tehdään korostuksesta ilman ylimääräistä A-nuolta.
+**Tilanne: 91 locked + 0 review = 91 kysymystä.**
