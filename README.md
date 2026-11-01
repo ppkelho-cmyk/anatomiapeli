@@ -16,3 +16,6 @@ QA10.1 sisältää **7 review-kysymystä**:
 QA10.1 käyttää mahdollisuuksien mukaan värillistä aluekorostusta A-nuolten sijaan. Latinankielinen nimi on tallennettu `la`-kenttään vain niille rakenteille, joille virallinen opiskeltavien rakenteiden lista antaa latinankielisen nimen. Sydämen tyvelle ja kärjelle listassa ei ole latinankielistä nimeä, joten niiden `la`-kenttä on tyhjä.
 
 Pohjakuva: Stenemo / Wapcaplet et al., Wikimedia Commons, CC BY-SA 4.0.
+
+
+QA10.1 fix 1: sydämen tyvi käyttää posteriorista Wikimedia Commons -kuvaa; sydämen kärjen ja vasemman eteisen korostuksia tarkennettu.
