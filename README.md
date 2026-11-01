@@ -1,15 +1,13 @@
-# Anatomiapeli V8 — QA10.2 fix 2
+# Anatomiapeli V8 — QA10.3
 
-QA10.1 on lukittu: 98 hyväksyttyä kysymystä.
+QA10.2 on lukittu: 104 hyväksyttyä kysymystä.
 
-QA10.2 lisää 6 review-kysymystä sydämen tarkemmista rakenteista:
-- oikea eteiskorvake
-- vasen eteiskorvake
-- sydänpussi (pericardium)
-- sydänlihas (myocardium)
-- sydämen sisäkalvo (endocardium)
-- kammioväliseinä
+QA10.3 lisää 4 review-kysymystä sydämen läpistä:
+- mitraaliläppä eli hiippaläppä (valva mitralis)
+- kolmiliuskaläppä eli trikuspidaaliläppä (valva tricuspidalis)
+- aorttaläppä (valva aortae)
+- keuhkovaltimo- eli pulmonaaliläppä (valva pulmonalis)
 
-Yhteensä 104 kysymystä: 98 locked + 6 review.
+Yhteensä 108 kysymystä: 104 locked + 4 review.
 
-Korostusperiaate: käytetään valmista anatomista värikorostusta tai rajattua overlay-korostusta vain silloin, kun se yksilöi rakenteen järkevästi.
+Korostusperiaate: läppä rajataan mahdollisimman paikallisesti niin, että ympäröivä anatomia säilyy tunnistettavana.
