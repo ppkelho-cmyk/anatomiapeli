@@ -1,4 +1,4 @@
-# Anatomiapeli V8 — QA10.2 fix 1
+# Anatomiapeli V8 — QA10.2 fix 2
 
 QA10.1 on lukittu: 98 hyväksyttyä kysymystä.
 
