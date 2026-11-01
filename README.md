@@ -15,3 +15,8 @@ Korostusperiaate: läppä rajataan mahdollisimman paikallisesti niin, että ymp�
 
 ## QA10.4
 QA10.3 lukittu (108 hyväksyttyä). QA10.4 sisältää 5 review-kysymystä sydämen johtoratajärjestelmästä.
+
+
+## QA11.1
+
+QA10.4 lukittu: 113 hyväksyttyä kysymystä. QA11.1 lisää 6 review-kysymystä aortasta ja sen pääosista: aortta, nouseva aortta, aortan kaari, laskeva aortta, rinta-aortta ja vatsa-aortta. Yhteensä 119 kysymystä: 113 locked + 6 review.
