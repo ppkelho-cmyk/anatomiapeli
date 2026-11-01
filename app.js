@@ -1,4 +1,4 @@
-const all=[...window.QUESTIONS];
+const all=[...(window.QUESTIONS||[])].filter(Boolean);
 let qs=[],i=0,score=0,locked=false,qaMode=false,currentFilter='all';
 const $=s=>document.querySelector(s);const debug=new URLSearchParams(location.search).has('calibrate');
 function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
