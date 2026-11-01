@@ -18,4 +18,4 @@ QA10.1 käyttää mahdollisuuksien mukaan värillistä aluekorostusta A-nuolten 
 Pohjakuva: Stenemo / Wapcaplet et al., Wikimedia Commons, CC BY-SA 4.0.
 
 
-QA10.1 fix 1: sydämen tyvi käyttää posteriorista Wikimedia Commons -kuvaa; sydämen kärjen ja vasemman eteisen korostuksia tarkennettu.
+QA10.1 fix 2: sydämen tyvi käyttää posteriorista Wikimedia Commons -kuvaa; sydämen kärjen ja vasemman eteisen korostuksia tarkennettu.
