@@ -1,11 +1,18 @@
-# Anatomiapeli V8 — QA9.5 locked
+# Anatomiapeli V8 — QA10.1 sydämen perusrakenteet
 
-QA1–QA9.5 on lukittu: **91 hyväksyttyä kysymystä**.
+QA1–QA9.5 lukittu: **91 hyväksyttyä kysymystä**.
 
-## QA9.5
+QA10.1 sisältää **7 review-kysymystä**:
+- sydän — *cor*
+- sydämen tyvi
+- sydämen kärki
+- oikea eteinen — *atrium dextrum/dx.*
+- vasen eteinen — *atrium sinistrum/sin.*
+- oikea kammio — *ventriculus dexter/dx.*
+- vasen kammio — *ventriculus sinister/sin.*
 
-QA9.5 sisältää **8/8 tarkistettua ja hyväksyttyä kysymystä**. Kaikki QA9.5-kysymykset ovat nyt `locked`-tilassa.
+**Tilanne: 91 locked + 7 review = 98 kysymystä.**
 
-Lihaskysymysten yhtenäinen linja: kun kohderakenne on kuvassa yksiselitteisesti värikorostettu, kysymys käyttää muotoa **“Mikä rakenne on korostettu kuvassa?”** ilman turhaa A-nuolta tai viivaa. Nuolta käytetään vain silloin, kun sitä tarvitaan rakenteen yksilöimiseen.
+QA10.1 käyttää mahdollisuuksien mukaan värillistä aluekorostusta A-nuolten sijaan. Latinankielinen nimi on tallennettu `la`-kenttään vain niille rakenteille, joille virallinen opiskeltavien rakenteiden lista antaa latinankielisen nimen. Sydämen tyvelle ja kärjelle listassa ei ole latinankielistä nimeä, joten niiden `la`-kenttä on tyhjä.
 
-**Tilanne: 91 locked + 0 review = 91 kysymystä.**
+Pohjakuva: Stenemo / Wapcaplet et al., Wikimedia Commons, CC BY-SA 4.0.
