@@ -1,21 +1,15 @@
-# Anatomiapeli V8 — QA10.1 sydämen perusrakenteet
+# Anatomiapeli V8 — QA10.2
 
-QA1–QA9.5 lukittu: **91 hyväksyttyä kysymystä**.
+QA10.1 on lukittu: 98 hyväksyttyä kysymystä.
 
-QA10.1 sisältää **7 review-kysymystä**:
-- sydän — *cor*
-- sydämen tyvi
-- sydämen kärki
-- oikea eteinen — *atrium dextrum/dx.*
-- vasen eteinen — *atrium sinistrum/sin.*
-- oikea kammio — *ventriculus dexter/dx.*
-- vasen kammio — *ventriculus sinister/sin.*
+QA10.2 lisää 6 review-kysymystä sydämen tarkemmista rakenteista:
+- oikea eteiskorvake
+- vasen eteiskorvake
+- sydänpussi (pericardium)
+- sydänlihas (myocardium)
+- sydämen sisäkalvo (endocardium)
+- kammioväliseinä
 
-**Tilanne: 91 locked + 7 review = 98 kysymystä.**
+Yhteensä 104 kysymystä: 98 locked + 6 review.
 
-QA10.1 käyttää mahdollisuuksien mukaan värillistä aluekorostusta A-nuolten sijaan. Latinankielinen nimi on tallennettu `la`-kenttään vain niille rakenteille, joille virallinen opiskeltavien rakenteiden lista antaa latinankielisen nimen. Sydämen tyvelle ja kärjelle listassa ei ole latinankielistä nimeä, joten niiden `la`-kenttä on tyhjä.
-
-Pohjakuva: Stenemo / Wapcaplet et al., Wikimedia Commons, CC BY-SA 4.0.
-
-
-QA10.1 fix 2: sydämen tyvi käyttää posteriorista Wikimedia Commons -kuvaa; sydämen kärjen ja vasemman eteisen korostuksia tarkennettu.
+Korostusperiaate: käytetään valmista anatomista värikorostusta tai rajattua overlay-korostusta vain silloin, kun se yksilöi rakenteen järkevästi.
