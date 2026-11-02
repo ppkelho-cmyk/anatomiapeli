@@ -155,3 +155,11 @@ QA11.6 v3: lonkkavaltimoiden kuva vaihdettu alkuperäiseen Gray539-kuvaan ilman 
 
 ## QA11.6 v3 fix 2
 Viimeinen kohdistusfix: yhteisen lonkkavaltimon kohde siirretty proksimaalisemmin selvästi a. iliaca communiksen rungolle ennen interna/externa-haarautumista. Polvitaivevaltimon kohdetta hienosäädetty muutama pikseli suonen keskelle. Muut QA11.6-kysymykset säilytetty muuttumattomina.
+
+## Navigaatioprototyyppi v1
+- Pelaaja aloittaa nyt harjoitteluvalikosta eikä koko 142 kysymyksen sarjasta.
+- Pääluokat: Luusto, Lihakset, Verenkiertoelimistö.
+- Jokaisen pääluokan sisällä voi valita pienemmän aihealueen tai harjoitella koko pääluokan.
+- Kaikki valmiit kysymykset voi edelleen käynnistää yhdellä valinnalla.
+- QA-tarkastus säilyy erillisenä kehittäjänäkymänä.
+- Kysymysten sisältöä tai anatomisia kohdistuksia ei muutettu tässä prototyypissä.
