@@ -128,3 +128,10 @@ V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmil
 - Alempi suolilievevaltimo: kohdepiste siirretty pois vatsa-aortan rungolta aortasta erkanevan a. mesenterica inferiorin proksimaaliseen haaraan.
 - Muut neljä QA11.5-kysymystä jätetty fix 3:n kalibrointeihin.
 - Tila: 130 locked + 5 review = 135 kysymystä.
+
+
+## QA11.5 hyväksytty
+QA11.5 (vatsa-aortan haarat) lukittu 5/5 fix 4:n jälkeen. Hyväksytty kokonaismäärä: 135 kysymystä.
+
+## QA11.6 v1
+Lisätty 7 review-kysymystä lantion ja alaraajan valtimoista: yhteinen lonkkavaltimo, sisempi lonkkavaltimo, ulompi lonkkavaltimo, reisivaltimo (a. femoralis), polvitaivevaltimo (a. poplitea), etumainen säärivaltimo (a. tibialis anterior) ja takimmainen säärivaltimo (a. tibialis posterior). Kuvaryhmät on jaettu lantioon, reiteen/polvitaipeeseen ja sääreen, jotta pienet valtimot voidaan näyttää riittävän suurina. Käytössä kirjaineton compactArrow-nuolityyli. V1 on tarkoituksella kalibrointiversio: 135 locked + 7 review = 142 kysymystä.
