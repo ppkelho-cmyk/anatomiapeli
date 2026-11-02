@@ -135,3 +135,9 @@ QA11.5 (vatsa-aortan haarat) lukittu 5/5 fix 4:n jälkeen. Hyväksytty kokonaism
 
 ## QA11.6 v1
 Lisätty 7 review-kysymystä lantion ja alaraajan valtimoista: yhteinen lonkkavaltimo, sisempi lonkkavaltimo, ulompi lonkkavaltimo, reisivaltimo (a. femoralis), polvitaivevaltimo (a. poplitea), etumainen säärivaltimo (a. tibialis anterior) ja takimmainen säärivaltimo (a. tibialis posterior). Kuvaryhmät on jaettu lantioon, reiteen/polvitaipeeseen ja sääreen, jotta pienet valtimot voidaan näyttää riittävän suurina. Käytössä kirjaineton compactArrow-nuolityyli. V1 on tarkoituksella kalibrointiversio: 135 locked + 7 review = 142 kysymystä.
+
+## QA11.6 v2
+- Lonkkavaltimot: vaihdettu väljemmin hahmotettavaan Gray539-pohjaiseen `Internal iliac branches.PNG` -kuvaan.
+- Reisivaltimo: jätetty muuttamatta v1:stä.
+- Polvitaivevaltimo: nuolen kohdistusta siirretty itse a. poplitean rungolle.
+- Etummainen ja takimmainen säärivaltimo: kuva-alaa zoomattu ulospäin anatomisen suunnan hahmottamiseksi.
