@@ -89,3 +89,7 @@ QA11.5:n viisi review-kysymystä siirretty uuteen tekstittömään Aorta scheme 
 
 ## QA11.5 v3
 QA11.5:n pohjakuva vaihdettu selkeään tekstittömään vatsa-aortan haarakaavioon. Kaaviossa keskitytään vain QA11.5:n kannalta olennaisiin rakenteisiin: sisusvaltimorunko, ylempi suolilievevaltimo, munuaisvaltimot, gonadivaltimot ja alempi suolilievevaltimo. QA11.5 käyttää uutta compactArrow-asetusta: nuoli, nuolenkärki ja kohdeympyrä ovat selvästi aiempaa pienemmät, jotta ne eivät peitä pientä valtimohaaraa. Anatominen sijoittelu on ristiintarkistettu Wellcome Collectionin vatsa-aortan haarakaaviota vasten (CC BY 4.0). Tila: 130 locked + 5 review = 135.
+
+
+## QA11.5 v4
+Korjattu v3:n kuvan latausongelma: QA11.5-kaavio on nyt erillinen paikallinen SVG-tiedosto (qa11_5_abdominal_aorta.svg) eikä data-URI questions.js-tiedostossa. Pieni compactArrow-nuolityyli säilytetty. Tila: 130 locked + 5 review = 135.
