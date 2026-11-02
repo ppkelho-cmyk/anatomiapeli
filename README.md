@@ -113,3 +113,12 @@ V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmil
 - Kives-/munasarjavaltimoiden kaksi nuolta siirretty molempien gonadaalivaltimoiden päälle.
 - Sisusvaltimorungon, ylemmän suolilievevaltimon ja alemman suolilievevaltimon kohdepisteitä tarkennettu proksimaalisiin runkoihin.
 - QA11.5 pysyy review-tilassa: 130 lukittua + 5 review = 135 kysymystä.
+
+
+## QA11.5 v5 fix 3
+- Nuolikalibrointi käyttäjän QA-merkintöjen perusteella.
+- Munuaisvaltimo: vasemman puolen kohde siirretty laskimosta punaiseen munuaisvaltimoon; toinen nuoli ennallaan.
+- Alempi suolilievevaltimo: kohde siirretty aortalta IMA:n proksimaaliseen osaan.
+- Kives-/munasarjavaltimot: molemmat kohteet siirretty ohuisiin gonadaalivaltimoihin.
+- Sisusvaltimorunko ja ylempi suolilievevaltimo jätetty fix 2:n hyväksyttyihin kohtiin.
+- Tila: 130 locked + 5 review = 135 kysymystä.
