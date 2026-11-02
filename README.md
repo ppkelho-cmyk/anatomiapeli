@@ -81,3 +81,7 @@ QA11.4 hyväksytty 5/5 ja lukittu lopullisen kyynärvaltimon kohdistuksen jälke
 
 ## QA11.5 v1
 Lisätty 5 review-kysymystä vatsa-aortan haaroista: sisusvaltimorunko, ylempi suolilievevaltimo, munuaisvaltimo (a. renalis), alempi suolilievevaltimo sekä kivesvaltimot/munasarjavaltimot. Käytössä kirjaineton nuolityyli ja vatsan alueelle rajattu valtimokuva. V1 on tarkoituksella kalibrointiversio: 130 locked + 5 review = 135.
+
+
+## QA11.5 v2
+QA11.5:n viisi review-kysymystä siirretty uuteen tekstittömään Aorta scheme noTags.svg -pohjakuvaan (Edoarado / Wikimedia Commons, CC BY-SA 3.0). Kuva rajataan vatsa-aortan alueelle ilman käsivarsia, jotta viskeraaliset haarat näkyvät aiempaa suurempina ja selkeämpinä. Nuolenkärjet kalibroitu alustavasti uuteen kuvaan. Tila säilyy 130 locked + 5 review = 135.
