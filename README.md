@@ -151,3 +151,7 @@ QA11.6 v3: lonkkavaltimoiden kuva vaihdettu alkuperäiseen Gray539-kuvaan ilman 
 - Yhteisen lonkkavaltimon kohde siirretty selvemmin yhteisen lonkkavaltimon rungolle.
 - Polvitaivevaltimon kohde siirretty polvitaipeessa a. poplitean paksulle päärungolle käyttäjän QA-merkinnän perusteella.
 - Kaksi kysymystä jää review-tilaan lopullista kohdistustarkistusta varten.
+
+
+## QA11.6 v3 fix 2
+Viimeinen kohdistusfix: yhteisen lonkkavaltimon kohde siirretty proksimaalisemmin selvästi a. iliaca communiksen rungolle ennen interna/externa-haarautumista. Polvitaivevaltimon kohdetta hienosäädetty muutama pikseli suonen keskelle. Muut QA11.6-kysymykset säilytetty muuttumattomina.
