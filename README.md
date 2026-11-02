@@ -85,3 +85,7 @@ Lisätty 5 review-kysymystä vatsa-aortan haaroista: sisusvaltimorunko, ylempi s
 
 ## QA11.5 v2
 QA11.5:n viisi review-kysymystä siirretty uuteen tekstittömään Aorta scheme noTags.svg -pohjakuvaan (Edoarado / Wikimedia Commons, CC BY-SA 3.0). Kuva rajataan vatsa-aortan alueelle ilman käsivarsia, jotta viskeraaliset haarat näkyvät aiempaa suurempina ja selkeämpinä. Nuolenkärjet kalibroitu alustavasti uuteen kuvaan. Tila säilyy 130 locked + 5 review = 135.
+
+
+## QA11.5 v3
+QA11.5:n pohjakuva vaihdettu selkeään tekstittömään vatsa-aortan haarakaavioon. Kaaviossa keskitytään vain QA11.5:n kannalta olennaisiin rakenteisiin: sisusvaltimorunko, ylempi suolilievevaltimo, munuaisvaltimot, gonadivaltimot ja alempi suolilievevaltimo. QA11.5 käyttää uutta compactArrow-asetusta: nuoli, nuolenkärki ja kohdeympyrä ovat selvästi aiempaa pienemmät, jotta ne eivät peitä pientä valtimohaaraa. Anatominen sijoittelu on ristiintarkistettu Wellcome Collectionin vatsa-aortan haarakaaviota vasten (CC BY 4.0). Tila: 130 locked + 5 review = 135.
