@@ -122,3 +122,9 @@ V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmil
 - Kives-/munasarjavaltimot: molemmat kohteet siirretty ohuisiin gonadaalivaltimoihin.
 - Sisusvaltimorunko ja ylempi suolilievevaltimo jätetty fix 2:n hyväksyttyihin kohtiin.
 - Tila: 130 locked + 5 review = 135 kysymystä.
+
+
+## QA11.5 v5 fix 4
+- Alempi suolilievevaltimo: kohdepiste siirretty pois vatsa-aortan rungolta aortasta erkanevan a. mesenterica inferiorin proksimaaliseen haaraan.
+- Muut neljä QA11.5-kysymystä jätetty fix 3:n kalibrointeihin.
+- Tila: 130 locked + 5 review = 135 kysymystä.
