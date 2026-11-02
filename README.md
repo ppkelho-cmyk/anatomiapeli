@@ -39,3 +39,7 @@ QA11.2:n A-nuolet kalibroitu uudelleen fix 8:n peliscreenshotien perusteella. Ku
 
 ## QA11.2 fix 10
 QA11.2:n A-nuolille tehty viimeinen hienokalibrointi: käden ja pään valtimorungon nuolenkärki siirretty alemmas itse lyhyen rungon keskelle ja solisvaltimon kohdistusta tarkennettu suonen keskelle. Yhteisen pään-/kaulavaltimon nuoli sekä kuvan rajaus, kysymystekstit ja muu ulkoasu pidetty ennallaan. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122.
+
+
+## QA11.2 fix 11
+QA11.2:n käden ja pään valtimorungon A-nuolen kärkipistettä hienosäädetty fix 10:n peliscreenshotin perusteella hieman ylemmäs ja vasemmalle itse lyhyen valtimorungon keskelle. Solisvaltimon ja yhteisen pään-/kaulavaltimon hyväksyttyihin nuoliin ei tehty muutoksia. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122.
