@@ -70,3 +70,7 @@ Nikamavaltimo ja kainalovaltimo pidetty ennallaan. Olkavarsi-, kyynär- ja värt
 
 ## QA11.4 fix 6
 Kyynärvaltimon kohdistusta hienosäädetty suonen päälle ja värttinävaltimon kohde siirretty radiaaliselle, peukalonpuoleiselle valtimolle. Muut QA11.4-kysymykset ennallaan.
+
+
+### QA11.4 fix 7
+Kyynärvaltimon nuolen kohdepiste siirretty ohuemmalta suonelta takaisin paksumman kyynärvaltimon päälle. Värttinävaltimon fix 6 -kohdistus säilytetty muuttumattomana. QA11.4 pysyy review-tilassa käyttäjän lopulliseen hyväksyntään asti.
