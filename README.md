@@ -29,3 +29,7 @@ QA11.1 lukittu: 119 hyväksyttyä kysymystä. QA11.2 sisältää 3 review-kysymy
 
 ## QA11.2 fix 7
 QA11.2:n kuva rajattu ylävartaloon (ylävatsasta päähän), jotta aortan kaaren haarat näkyvät suurempina. Korostukset muutettu ohuemmiksi, paikallisiksi viivakorostuksiksi. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122 kysymystä.
+
+
+## QA11.2 fix 8
+QA11.2:n viivakorostukset korvattu A-nuolilla. Nykyinen ylävartalorajaus säilyy, ja nuolenkärjet osoittavat paikallisesti käden ja pään valtimorunkoon, yhteiseen pään-/kaulavaltimoon ja solisvaltimoon. Kysymysmuoto on nyt ‘Mikä valtimo on merkitty A-nuolella?’. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122 kysymystä.
