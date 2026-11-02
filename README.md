@@ -169,3 +169,11 @@ Viimeinen kohdistusfix: yhteisen lonkkavaltimon kohde siirretty proksimaalisemmi
 - Tumma tila koskee harjoitteluvalikkoa, QA-näkymää, kysymyskortteja, painikkeita, palautteita ja navigaatiota.
 - Anatomian kuvien tausta pidetään vaaleana, jotta alkuperäisten piirrosten kontrasti ja luettavuus säilyvät.
 - Kysymysdataan tai anatomisiin kohdistuksiin ei tehty muutoksia.
+
+
+## Navigaatio v1.2 — vapaaehtoinen dark mode
+- Lisätty yläpalkkiin Tumma/Vaalea-painike, joka toimii harjoitteluvalikossa, QA-näkymässä ja pelin aikana.
+- Teemavalinta tallennetaan selaimen localStorageen, joten valinta säilyy sivun latausten välillä.
+- Tumma tila ei enää aktivoidu automaattisesti käyttöjärjestelmän teeman perusteella.
+- QA11.6:n kaksi viimeistä review-kysymystä (yhteinen lonkkavaltimo ja polvitaivevaltimo) lukittu hyväksynnän jälkeen.
+- QA11.6 on nyt 7/7 locked; koko pelissä 142 locked-kysymystä.
