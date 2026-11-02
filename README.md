@@ -97,3 +97,11 @@ Korjattu v3:n kuvan latausongelma: QA11.5-kaavio on nyt erillinen paikallinen SV
 
 ## QA11.5 v5
 V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmilla Gray's Anatomy -kuvilla. QA11.5 käyttää nyt neljää public domain -levyä: Gray532 (sisusvaltimorunko), Gray534 (ylempi suolilievevaltimo), Gray531 (munuais- ja gonadivaltimot) sekä Gray537 (alempi suolilievevaltimo). Pieni compactArrow-tyyli säilytetty. QA11.5 pysyy review-tilassa: 130 locked + 5 review = 135.
+
+
+### QA11.5 v5 fix 1
+- Sisusvaltimorungon Gray532-rajausta väljennetty anatomisen orientaation parantamiseksi.
+- Munuaisvaltimokysymykseen lisätty kaksi tarkkuusnuolta (oikea ja vasen a. renalis).
+- Kives-/munasarjavaltimokysymykseen lisätty kaksi tarkkuusnuolta parillisten gonadaalivaltimoiden osoittamiseksi.
+- app.js tukee nyt kysymyskohtaisesti useita nuolia `arrows`-kentällä; vanhat kysymykset säilyvät ennallaan.
+- Tila: 130 locked + 5 review = 135.
