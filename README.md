@@ -93,3 +93,7 @@ QA11.5:n pohjakuva vaihdettu selkeään tekstittömään vatsa-aortan haarakaavi
 
 ## QA11.5 v4
 Korjattu v3:n kuvan latausongelma: QA11.5-kaavio on nyt erillinen paikallinen SVG-tiedosto (qa11_5_abdominal_aorta.svg) eikä data-URI questions.js-tiedostossa. Pieni compactArrow-nuolityyli säilytetty. Tila: 130 locked + 5 review = 135.
+
+
+## QA11.5 v5
+V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmilla Gray's Anatomy -kuvilla. QA11.5 käyttää nyt neljää public domain -levyä: Gray532 (sisusvaltimorunko), Gray534 (ylempi suolilievevaltimo), Gray531 (munuais- ja gonadivaltimot) sekä Gray537 (alempi suolilievevaltimo). Pieni compactArrow-tyyli säilytetty. QA11.5 pysyy review-tilassa: 130 locked + 5 review = 135.
