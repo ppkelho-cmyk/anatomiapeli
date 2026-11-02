@@ -25,3 +25,7 @@ QA10.4 lukittu: 113 hyväksyttyä kysymystä. QA11.1 on lukittu 6/6 hyväksytyll
 ## QA11.2
 
 QA11.1 lukittu: 119 hyväksyttyä kysymystä. QA11.2 sisältää 3 review-kysymystä aortan kaaren suurista haaroista: käden ja pään valtimorunko, yhteinen pään-/kaulavaltimo ja solisvaltimo. Nikamavaltimo siirrettiin seuraavaan tarkempaan kaulaerään, koska tämän erän avoin tekstitön kuva ei esitä sitä riittävän selvästi. Yhteensä 122 kysymystä: 119 locked + 3 review.
+
+
+## QA11.2 fix 7
+QA11.2:n kuva rajattu ylävartaloon (ylävatsasta päähän), jotta aortan kaaren haarat näkyvät suurempina. Korostukset muutettu ohuemmiksi, paikallisiksi viivakorostuksiksi. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122 kysymystä.
