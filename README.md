@@ -202,3 +202,25 @@ Keuhkovaltimorungon (truncus pulmonalis) nuolikohdistus kalibroitu proksimaalise
 - Keuhkovaltimorunko (truncus pulmonalis): lopullinen selkeä anatominen piirros; nuoli kalibroitu proksimaaliselle rungolle ennen haarautumista.
 - Keuhkovaltimo (a. pulmonalis): aiemmin hyväksytty kysymys säilytetty muuttumattomana.
 - QA11.7 lukittu 2/2. Anatomiapelissä on nyt 144 lukittua/hyväksyttyä kysymystä QA11.7:ään asti.
+
+
+## QA12.1 DEV fix 2
+
+- Korvaa QA12.1:n Gray577-kuvan selkeämmillä tekstittömillä avoimen lisenssin kuvilla.
+- Yläonttolaskimo: Diagram of the human heart (no labels), CC BY-SA 4.0.
+- Käsivarren ja pään laskimo, solislaskimo ja alaonttolaskimo: Ch20 veins, Sheldahl, CC BY-SA 4.0.
+- QA12.1 pysyy review-tilassa; QA1–QA11.7 (144 kysymystä) säilyy lukittuna.
+
+
+## QA12.1 DEV fix 3
+SVC säilytetty fix 2:sta. Brachiocephalica-, subclavia- ja IVC-kysymykset siirretty OpenStax College / 2132 Thoracic Abdominal Veins -kuvaan (Wikimedia Commons, CC BY 3.0). Kuvat ovat review-tilassa ja nuolten koordinaatit ovat ensimmäinen kalibrointikierros uudella kuvalla.
+
+
+## QA12.1 fix 4
+- SVC: väljempi zoom, sama anatominen kohde.
+- Subclavia, brachiocephalica ja IVC: nimeämisviivattomat QA-kuvat ja tarkennetut kohteet.
+- Kaikki neljä edelleen review-tilassa; ei vielä lukittu julkaisuversio.
+- QA1–QA11.7: 144 lukittua kysymystä säilyvät ennallaan.
+
+
+QA12.1 fix 6: solislaskimon nuoli siirretty lateraalisemmaksi varsinaiselle v. subclavialle solisluun alle; muut QA12.1-kohdistukset ennallaan.
