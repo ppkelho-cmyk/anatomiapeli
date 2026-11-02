@@ -177,3 +177,28 @@ Viimeinen kohdistusfix: yhteisen lonkkavaltimon kohde siirretty proksimaalisemmi
 - Tumma tila ei enää aktivoidu automaattisesti käyttöjärjestelmän teeman perusteella.
 - QA11.6:n kaksi viimeistä review-kysymystä (yhteinen lonkkavaltimo ja polvitaivevaltimo) lukittu hyväksynnän jälkeen.
 - QA11.6 on nyt 7/7 locked; koko pelissä 142 locked-kysymystä.
+
+
+## QA11.7 v1 — kehityshaara, ei julkaisuun
+- QA11.7 aloittaa keuhkoverenkierron valtimot kahdella review-kysymyksellä: keuhkovaltimorunko (truncus pulmonalis) ja keuhkovaltimo (a. pulmonalis).
+- Lähtökuvana Gray490blanco.png: Gray's Anatomyn etukuva sydämestä ja keuhkoista ilman alkuperäisiä nimilappuja; public domain.
+- QA11.7 ei ole mukana pelaajan harjoitteluvalikossa ennen hyväksyntää/lukitusta. Se löytyy QA-tarkastuksesta.
+- Julkaistun QA1–QA11.6:n 142 locked-kysymystä, navigaatio ja dark mode -kytkin säilyvät muuttumattomina.
+- V1:n nuolipisteet ovat tarkoituksella review/kalibrointivaiheessa.
+
+
+## QA11.7 fix 2 — kehityshaara
+Keuhkovaltimorungon (truncus pulmonalis) nuolikohdistus kalibroitu proksimaalisemmaksi varsinaiseen runkoon. Fix 1:n zoomaus ja keuhkovaltimon (a. pulmonalis) hyväksytty kohdistus säilyvät ennallaan. QA11.7 pysyy review-tilassa.
+
+
+## QA11.7 DEV fix 3
+- Vain keuhkovaltimorungon (truncus pulmonalis) kysymyksen kuva vaihdettu selkeämpään 3D-CT-keuhkoverenkiertokuvaan (Mikael Häggström, Wikimedia Commons, CC0).
+- Nuoli kohdistettu keuhkovaltimorungon päärunkoon ennen haarautumista.
+- Keuhkovaltimo (a. pulmonalis) säilytetty muuttumattomana fix 1:n hyväksytyssä muodossa.
+- QA11.7 pysyy review-tilassa; QA1–QA11.6 pysyy lukittuna.
+
+
+## QA11.7 fix 6 — hyväksytty ja lukittu
+- Keuhkovaltimorunko (truncus pulmonalis): lopullinen selkeä anatominen piirros; nuoli kalibroitu proksimaaliselle rungolle ennen haarautumista.
+- Keuhkovaltimo (a. pulmonalis): aiemmin hyväksytty kysymys säilytetty muuttumattomana.
+- QA11.7 lukittu 2/2. Anatomiapelissä on nyt 144 lukittua/hyväksyttyä kysymystä QA11.7:ään asti.
