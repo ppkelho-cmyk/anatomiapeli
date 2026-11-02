@@ -26,4 +26,4 @@ function applyTheme(mode){const dark=mode==='dark';document.body.classList.toggl
 let savedTheme;try{savedTheme=localStorage.getItem(themeKey)}catch(e){}
 applyTheme(savedTheme==='dark'?'dark':'light');
 $('#themeToggle').onclick=()=>{const mode=document.body.classList.contains('dark-mode')?'light':'dark';applyTheme(mode);try{localStorage.setItem(themeKey,mode)}catch(e){}};
-qaMenu(); // DEV-testipaketti: avaa QA-tarkastus suoraan
+if(new URLSearchParams(location.search).has('qa'))qaMenu();else showStudy();
