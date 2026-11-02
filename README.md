@@ -36,3 +36,6 @@ QA11.2:n viivakorostukset korvattu A-nuolilla. Nykyinen ylävartalorajaus säily
 
 ## QA11.2 fix 9
 QA11.2:n A-nuolet kalibroitu uudelleen fix 8:n peliscreenshotien perusteella. Kuvan rajaus, kysymystekstit ja muu ulkoasu pidetty ennallaan. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122.
+
+## QA11.2 fix 10
+QA11.2:n A-nuolille tehty viimeinen hienokalibrointi: käden ja pään valtimorungon nuolenkärki siirretty alemmas itse lyhyen rungon keskelle ja solisvaltimon kohdistusta tarkennettu suonen keskelle. Yhteisen pään-/kaulavaltimon nuoli sekä kuvan rajaus, kysymystekstit ja muu ulkoasu pidetty ennallaan. QA11.2 pysyy review-tilassa: 119 locked + 3 review = 122.
