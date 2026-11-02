@@ -74,3 +74,10 @@ Kyynärvaltimon kohdistusta hienosäädetty suonen päälle ja värttinävaltimo
 
 ### QA11.4 fix 7
 Kyynärvaltimon nuolen kohdepiste siirretty ohuemmalta suonelta takaisin paksumman kyynärvaltimon päälle. Värttinävaltimon fix 6 -kohdistus säilytetty muuttumattomana. QA11.4 pysyy review-tilassa käyttäjän lopulliseen hyväksyntään asti.
+
+
+## QA11.4 lukitus
+QA11.4 hyväksytty 5/5 ja lukittu lopullisen kyynärvaltimon kohdistuksen jälkeen. Pelissä on nyt 130 locked-kysymystä.
+
+## QA11.5 v1
+Lisätty 5 review-kysymystä vatsa-aortan haaroista: sisusvaltimorunko, ylempi suolilievevaltimo, munuaisvaltimo (a. renalis), alempi suolilievevaltimo sekä kivesvaltimot/munasarjavaltimot. Käytössä kirjaineton nuolityyli ja vatsan alueelle rajattu valtimokuva. V1 on tarkoituksella kalibrointiversio: 130 locked + 5 review = 135.
