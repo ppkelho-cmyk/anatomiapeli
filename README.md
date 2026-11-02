@@ -66,3 +66,7 @@ Nikamavaltimon kysymys pidetty ennallaan. Neljän yläraajan valtimon kuva rajat
 
 ## QA11.4 fix 3
 Nikamavaltimo ja kainalovaltimo pidetty ennallaan. Olkavarsi-, kyynär- ja värttinävaltimolle tehty erilliset tiukat yläraajarajaukset (olkapää/olkavarsi–kyynärnivel–kyynärvarsi–ranne) ja nuolenkärjet kalibroitu uudelleen suonten päälle. QA11.4 pysyy review-tilassa: 125 locked + 5 review = 130.
+
+
+## QA11.4 fix 5
+Kyynärvaltimon kohdistusta hienosäädetty suonen päälle ja värttinävaltimon kohde siirretty radiaaliselle, peukalonpuoleiselle valtimolle. Muut QA11.4-kysymykset ennallaan.
