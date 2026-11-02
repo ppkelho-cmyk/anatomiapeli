@@ -54,3 +54,7 @@ Lisätty kolme review-kysymystä virallisen opiskeltavien rakenteiden listan muk
 
 ## QA11.3 fix 1
 QA11.3:n kolmen nuolen kohdistukset hienokalibroitu kuvapalautteen perusteella: sisemmän kaulavaltimon kärki siirretty suonen keskelle, ulomman kaulavaltimon kärki alemmas varsinaisen rungon kohdalle ja kaulavaltimonpoukaman kärki alemmas sisemmän kaulavaltimon laajentuneeseen alkuosaan. Kuva, rajaus, kysymysteksti ja kirjaineton nuolityyli pidetty ennallaan. QA11.3 pysyy review-tilassa: 122 locked + 3 review = 125.
+
+
+## QA11.4 v1
+QA11.3 hyväksytty ja lukittu 3/3: yhteensä 125 locked. Lisätty QA11.4 review-erä (5 kysymystä): nikamavaltimo, kainalovaltimo, olkavarsivaltimo (a. brachialis), kyynärvaltimo (a. ulnaris) ja värttinävaltimo (a. radialis). Käytössä kirjaineton nuolityyli ja kysymys ‘Mihin rakenteeseen nuoli osoittaa?’. QA11.4 v1 on kalibrointiversio: 125 locked + 5 review = 130.
