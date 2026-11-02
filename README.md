@@ -144,3 +144,10 @@ Lisätty 7 review-kysymystä lantion ja alaraajan valtimoista: yhteinen lonkkava
 
 
 QA11.6 v3: lonkkavaltimoiden kuva vaihdettu alkuperäiseen Gray539-kuvaan ilman päälle lisättyjä vastausta paljastavia nimilappuja. Polvitaivevaltimon kuva vaihdettu alkuperäiseen Gray544-levyyn ja rajaus avattu laajemmaksi. Reisivaltimo sekä etummainen ja takimmainen säärivaltimo säilytetty v2:sta muuttamattomina.
+
+
+## QA11.6 v3 fix 1
+- Lukittu hyväksytyt: sisempi ja ulompi lonkkavaltimo, reisivaltimo sekä etummainen ja takimmainen säärivaltimo.
+- Yhteisen lonkkavaltimon kohde siirretty selvemmin yhteisen lonkkavaltimon rungolle.
+- Polvitaivevaltimon kohde siirretty polvitaipeessa a. poplitean paksulle päärungolle käyttäjän QA-merkinnän perusteella.
+- Kaksi kysymystä jää review-tilaan lopullista kohdistustarkistusta varten.
