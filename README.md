@@ -105,3 +105,11 @@ V4:n luonnosmainen paikallinen kaavio korvattu anatomisesti yksityiskohtaisemmil
 - Kives-/munasarjavaltimokysymykseen lisätty kaksi tarkkuusnuolta parillisten gonadaalivaltimoiden osoittamiseksi.
 - app.js tukee nyt kysymyskohtaisesti useita nuolia `arrows`-kentällä; vanhat kysymykset säilyvät ennallaan.
 - Tila: 130 locked + 5 review = 135.
+
+
+## QA11.5 v5 fix 2
+- Kalibroitu kaikkien viiden QA11.5-kysymyksen nuolten kohdepisteitä review-kuvien perusteella.
+- Munuaisvaltimoiden kaksi nuolta siirretty molempien a. renalisten päälle.
+- Kives-/munasarjavaltimoiden kaksi nuolta siirretty molempien gonadaalivaltimoiden päälle.
+- Sisusvaltimorungon, ylemmän suolilievevaltimon ja alemman suolilievevaltimon kohdepisteitä tarkennettu proksimaalisiin runkoihin.
+- QA11.5 pysyy review-tilassa: 130 lukittua + 5 review = 135 kysymystä.
