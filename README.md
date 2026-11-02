@@ -50,3 +50,7 @@ QA11.2 hyväksytty 3/3 ja lukittu fix 11:n jälkeen. Pelissä on nyt 122 locked-
 
 ## QA11.3 v1
 Lisätty kolme review-kysymystä virallisen opiskeltavien rakenteiden listan mukaisesti: kaulavaltimonpoukama eli karotispoukama, sisempi kaulavaltimo ja ulompi kaulavaltimo. Kuvana käytetään Gray513-kaulavaltimokuvaa (Wikimedia Commons, public domain) rajattuna kaulan alueelle. QA11.3 ottaa käyttöön uuden yhden kohteen nuolityylin: punainen nuoli ja päätepiste ilman A-kirjainta, kysymysmuodolla “Mihin rakenteeseen nuoli osoittaa?”. Tila: 122 locked + 3 review = 125.
+
+
+## QA11.3 fix 1
+QA11.3:n kolmen nuolen kohdistukset hienokalibroitu kuvapalautteen perusteella: sisemmän kaulavaltimon kärki siirretty suonen keskelle, ulomman kaulavaltimon kärki alemmas varsinaisen rungon kohdalle ja kaulavaltimonpoukaman kärki alemmas sisemmän kaulavaltimon laajentuneeseen alkuosaan. Kuva, rajaus, kysymysteksti ja kirjaineton nuolityyli pidetty ennallaan. QA11.3 pysyy review-tilassa: 122 locked + 3 review = 125.
