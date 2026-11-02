@@ -64,5 +64,5 @@ QA11.3 hyväksytty ja lukittu 3/3: yhteensä 125 locked. Lisätty QA11.4 review-
 Nikamavaltimon kysymys pidetty ennallaan. Neljän yläraajan valtimon kuva rajattu aiempaa tiukemmin olkapään–käden alueelle ja nuolenkärjet kalibroitu anatomisesti selkeämpiin kohtiin: kainalovaltimo kainaloon, olkavarsivaltimo olkavarren pääsuoneen, kyynärvaltimo kyynärvarren ulnaaripuolelle ja värttinävaltimo radiaalipuolelle. QA11.4 pysyy review-tilassa: 125 locked + 5 review = 130.
 
 
-## QA11.4 fix 2
+## QA11.4 fix 3
 Nikamavaltimo ja kainalovaltimo pidetty ennallaan. Olkavarsi-, kyynär- ja värttinävaltimolle tehty erilliset tiukat yläraajarajaukset (olkapää/olkavarsi–kyynärnivel–kyynärvarsi–ranne) ja nuolenkärjet kalibroitu uudelleen suonten päälle. QA11.4 pysyy review-tilassa: 125 locked + 5 review = 130.
