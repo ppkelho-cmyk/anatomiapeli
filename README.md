@@ -163,3 +163,9 @@ Viimeinen kohdistusfix: yhteisen lonkkavaltimon kohde siirretty proksimaalisemmi
 - Kaikki valmiit kysymykset voi edelleen käynnistää yhdellä valinnalla.
 - QA-tarkastus säilyy erillisenä kehittäjänäkymänä.
 - Kysymysten sisältöä tai anatomisia kohdistuksia ei muutettu tässä prototyypissä.
+
+## Navigaatio v1.1 — tumma tila
+- Lisätty automaattinen dark mode `prefers-color-scheme: dark` -asetuksella.
+- Tumma tila koskee harjoitteluvalikkoa, QA-näkymää, kysymyskortteja, painikkeita, palautteita ja navigaatiota.
+- Anatomian kuvien tausta pidetään vaaleana, jotta alkuperäisten piirrosten kontrasti ja luettavuus säilyvät.
+- Kysymysdataan tai anatomisiin kohdistuksiin ei tehty muutoksia.

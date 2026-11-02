@@ -4,3 +4,26 @@
 .croppedAnatomy{width:100%;height:100%;display:block}
 
 .studyMenu{background:#fff;border-radius:22px;padding:24px;box-shadow:0 10px 35px #24405a12;margin-top:14px}.studyMenu h1{margin:2px 0 6px}.menuHead small{font-weight:900;letter-spacing:.08em;color:#2563eb}.menuHead p{color:#53657a;margin:0 0 18px}.studySummary{font-size:13px;color:#64748b;margin-bottom:14px}.studyChoices{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.studyChoice{font:inherit;border:1px solid #cad7e6;background:#fff;border-radius:16px;padding:17px;text-align:left;cursor:pointer;display:flex;justify-content:space-between;gap:12px;align-items:center}.studyChoice:hover{background:#f5f9ff;border-color:#93b4df}.studyChoice b{display:block;font-size:17px}.studyChoice span{display:block;font-size:12px;color:#64748b;margin-top:4px}.studyChoice .chev{font-size:20px;color:#2563eb}.studyChoice.primary{background:#eff6ff;border-color:#93c5fd}.studyChoice.all{grid-column:1/-1;background:#172d69;color:white;border-color:#172d69}.studyChoice.all span,.studyChoice.all .chev{color:#dbeafe}.breadcrumb{display:flex;align-items:center;gap:8px;margin:12px 0 16px;font-size:13px}.breadcrumb button{font:inherit;border:0;background:none;padding:0;color:#2563eb;font-weight:800;cursor:pointer}.breadcrumb strong{color:#475569}.secondary{color:#64748b}.menuBack{width:100%;margin-top:10px;font:inherit;font-weight:700;border:1px solid #cad7e6;background:#fff;color:#1d4ed8;border-radius:12px;padding:10px;cursor:pointer}.finishActions{display:grid;gap:10px;margin-top:18px}.finishActions button{font:inherit;font-weight:800;border-radius:14px;padding:14px;cursor:pointer}.finishActions .again{background:#172d69;color:white;border:0}.finishActions .home{background:white;color:#1d4ed8;border:1px solid #cad7e6}@media(max-width:650px){.studyMenu{padding:16px}.studyChoices{grid-template-columns:1fr}.studyChoice.all{grid-column:auto}.top{gap:8px}.top>span{font-size:13px}.topActions{flex-wrap:wrap;justify-content:flex-end}}
+
+/* Navigaatio v1.1 — tumma tila. Seuraa käyttöjärjestelmän/selaimen väriteemaa. */
+@media (prefers-color-scheme: dark){
+  body{background:#0f172a;color:#e5edf8}
+  .card,.qaMenu,.studyMenu{background:#172033;box-shadow:0 10px 35px #0005}
+  .pill{background:#1e3a5f;color:#bfdbfe}
+  .bar{background:#29364a}.bar>i{background:#60a5fa}
+  .sub,.menuHead p,.studySummary,.studyChoice span,.qaChoice span,.credit{color:#a9b8ca}
+  .pic{background:#f8fafc;border-color:#46566c}
+  .answers button,.qaLink,.qaBack,.qaMenu button,.studyChoice,.menuBack,.finishActions .home{background:#1e293b;color:#e5edf8;border-color:#46566c}
+  .answers button:hover,.studyChoice:hover{background:#263449;border-color:#6b86aa}
+  .answers .ok{background:#123b2b;border-color:#3e9c6a;color:#dcfce7}
+  .answers .bad{background:#4a2027;border-color:#b95c67;color:#fee2e2}
+  .next,.studyChoice.all,.finishActions .again{background:#29478f;color:#fff;border-color:#29478f}
+  .qaLink{color:#93c5fd}.secondary{color:#b7c4d4}
+  .qaSummary{background:#272c55;color:#c7d2fe}
+  .qaQuick .reviewBtn,.qaTag{background:#452d1b;border-color:#9a5c2d;color:#fdba74}
+  .menuHead small,.studyChoice .chev,.breadcrumb button,.menuBack,.finishActions .home{color:#93c5fd}
+  .studyChoice.primary{background:#172c48;border-color:#426b9f}
+  .studyChoice.all span,.studyChoice.all .chev{color:#dbeafe}
+  .breadcrumb strong{color:#c1cbd8}
+  .debug{background:#020617;color:#f8fafc}
+}
