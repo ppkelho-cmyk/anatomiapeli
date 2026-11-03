@@ -83,7 +83,7 @@ window.LATIN_EXTRA = [
   },
   {
     "a": "sepelvaltimot",
-    "la": "arteria coronaria",
+    "la": "arteriae coronariae",
     "system": "Verenkiertoelimistö",
     "systems": [
       "Verenkiertoelimistö"
@@ -192,7 +192,7 @@ window.LATIN_EXTRA = [
   },
   {
     "a": "keuhkoputket",
-    "la": "bronchus",
+    "la": "bronchi",
     "system": "Hengityselimistö ja hengityslihakset",
     "systems": [
       "Hengityselimistö ja hengityslihakset"
