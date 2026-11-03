@@ -1,13 +1,19 @@
-# Anatomiapeli V8 – QA12.3 JULKAISU (161 kysymystä)
+# Anatomiapeli V8 – Latina → suomi JULKAISU (161 kuvakysymystä)
 
-Julkaisupaketti GitHubin `main`-haaraan. QA12.3 on käyttäjän hyväksymä ja lukittu (8/8).
+Julkaisupaketti GitHubin `main`-haaraan.
 
-- 161 lukittua kysymystä (aiemmat 153 + QA12.3:n 8).
-- Harjoitteluvalikon verenkiertoelimistön uusi osio: "Raajojen laskimot, porttilaskimo ja keuhkolaskimo" (8).
-- QA12.3:n kuvat ja nuolikohdistukset ovat hyväksytystä DEV v4 -versiosta; vanhat kysymykset säilyvät.
-- Normaali avaus näyttää harjoitteluvalikon. QA-valikkoon pääsee QA-painikkeella tai `?qa`-parametrilla.
-- Mukana paikalliset `assets/`-kuvat ja tumma/vaalea-teemakytkin.
+- Kaikki 161 aiemmin hyväksyttyä kuvakysymystä ja niiden kuva-/nuolitiedot ennallaan.
+- Uusi **Latina → suomi** -pelitila: latinankielinen nimi ja neljä suomenkielistä vastausvaihtoehtoa.
+- 76 kysyttävää nimiparia, joissa on tarkistettavissa sekä suomen- että latinankielinen nimi lähdedatassa.
+- Harjoittelu kaikista nimipareista tai järjestelmittäin (Luusto, Lihakset, Verenkiertoelimistö). Lihaksille ei vielä ole nimipareja lähdedatassa, joten valinta on pois käytöstä.
+- Tumma ja vaalea tila, satunnaistettu järjestys, palaute, pisteytys ja yhteenveto.
+- Latinapelin yläreunassa **⌂ Etusivulle** -painike.
 
-## Julkaisu
+## GitHub-julkaisu
 
-Pura ZIP ja kopioi sen **sisältö** GitHub-repositorion juureen `main`-haaraan (korvaa samannimiset tiedostot, lisää `assets/`-kansion uudet kuvat). Tee commit ja odota GitHub Pagesin päivittymistä. Älä lataa ZIP-tiedostoa sellaisenaan repositorion juureen.
+1. Pura ZIP-paketti.
+2. Lataa **ZIPin sisältämät tiedostot ja `assets/`-kansio** repositorion juureen `main`-haaraan. Korvaa samannimiset tiedostot.
+3. Commitin jälkeen odota GitHub Pages -julkaisun päivittymistä.
+4. Tarkista `index.html` ja uusi `latina.html` GitHub Pages -osoitteessa.
+
+**Älä lataa pelkkää ZIP-tiedostoa repositorion juureen.**
