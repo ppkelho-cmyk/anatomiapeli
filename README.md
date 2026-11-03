@@ -1,26 +1,9 @@
-# Anatomiapeli V8 — Latina → suomi v1.1, julkaisun korjauspaketti
+# Anatomiapeli V8 – Latina → suomi v1.2
 
-Pohjana hyväksytty 161 kuvakysymyksen Latina → suomi -julkaisu.
+Julkaisupäivitys: Latina → suomi -valikossa näytetään vain järjestelmät, joilla on latinankielisiä nimipareja. Tyhjä Lihakset-kortti poistuu; se palautuu automaattisesti, jos lihaksille lisätään latinankielisiä nimipareja myöhemmin.
 
-## Muutokset (vain latin.js)
+## Päivitys GitHub Pagesiin
 
-- `vv. hepatica` → `vv. hepaticae` (maksalaskimot; latinan monikko)
-- `atrium dextrum/dx.` → `atrium dextrum` (oikea eteinen)
-- `atrium sinistrum/sin.` → `atrium sinistrum` (vasen eteinen)
-- `ventriculus dexter/dx.` → `ventriculus dexter` (oikea kammio)
-- `ventriculus sinister/sin.` → `ventriculus sinister` (vasen kammio)
+Korvaa main-haaran juuressa vain `latin.js`. Muita tiedostoja ei tarvitse ladata uudelleen. Tämä ZIP sisältää myös koko julkaisun varmuuden vuoksi.
 
-Nämä korjaukset koskevat vain uuden pelitilan latinankielistä kysymystekstiä ja vastauspalautetta. Suomenkieliset oikeat vastaukset, vastausvaihtoehtojen valinta, kuvapelin 161 lukittua kysymystä, kuvat, nuolimerkinnät, valikot ja teemat säilyvät ennallaan.
-
-## GitHub main -päivitys
-
-**Suositus: lataa ainoastaan päivitetty `latin.js`** repositorion juureen, korvaa vanha tiedosto ja tee commit. Koko ZIP sisältää myös muuttumattomat tiedostot, jos haluat päivittää koko paketin.
-
-## Tarkistukset
-
-- 161 lukittua kuvakysymystä ja 76 latinankielistä nimiparia laskettu lähdedatasta.
-- Oikeat vastaukset tulevat edelleen kunkin kysymyksen `a`-kentästä.
-- Latinankielinen termi korjataan näyttöä varten viidessä kohdassa.
-- JavaScript-syntaksitarkistus ja ZIP-tiedoston eheys tarkistettu.
-
-Tämä on rajattu kirjoitusasu- ja yhdenmukaistamiskorjaus, ei riippumaton kaikkien 76 termin lähdetarkistus.
+Kuvapelin 161 kysymystä, latinapelin 76 nimiparia ja aiemmat terminologiakorjaukset säilyvät ennallaan.
