@@ -1,19 +1,26 @@
-# Anatomiapeli V8 – Latina → suomi JULKAISU (161 kuvakysymystä)
+# Anatomiapeli V8 — Latina → suomi v1.1, julkaisun korjauspaketti
 
-Julkaisupaketti GitHubin `main`-haaraan.
+Pohjana hyväksytty 161 kuvakysymyksen Latina → suomi -julkaisu.
 
-- Kaikki 161 aiemmin hyväksyttyä kuvakysymystä ja niiden kuva-/nuolitiedot ennallaan.
-- Uusi **Latina → suomi** -pelitila: latinankielinen nimi ja neljä suomenkielistä vastausvaihtoehtoa.
-- 76 kysyttävää nimiparia, joissa on tarkistettavissa sekä suomen- että latinankielinen nimi lähdedatassa.
-- Harjoittelu kaikista nimipareista tai järjestelmittäin (Luusto, Lihakset, Verenkiertoelimistö). Lihaksille ei vielä ole nimipareja lähdedatassa, joten valinta on pois käytöstä.
-- Tumma ja vaalea tila, satunnaistettu järjestys, palaute, pisteytys ja yhteenveto.
-- Latinapelin yläreunassa **⌂ Etusivulle** -painike.
+## Muutokset (vain latin.js)
 
-## GitHub-julkaisu
+- `vv. hepatica` → `vv. hepaticae` (maksalaskimot; latinan monikko)
+- `atrium dextrum/dx.` → `atrium dextrum` (oikea eteinen)
+- `atrium sinistrum/sin.` → `atrium sinistrum` (vasen eteinen)
+- `ventriculus dexter/dx.` → `ventriculus dexter` (oikea kammio)
+- `ventriculus sinister/sin.` → `ventriculus sinister` (vasen kammio)
 
-1. Pura ZIP-paketti.
-2. Lataa **ZIPin sisältämät tiedostot ja `assets/`-kansio** repositorion juureen `main`-haaraan. Korvaa samannimiset tiedostot.
-3. Commitin jälkeen odota GitHub Pages -julkaisun päivittymistä.
-4. Tarkista `index.html` ja uusi `latina.html` GitHub Pages -osoitteessa.
+Nämä korjaukset koskevat vain uuden pelitilan latinankielistä kysymystekstiä ja vastauspalautetta. Suomenkieliset oikeat vastaukset, vastausvaihtoehtojen valinta, kuvapelin 161 lukittua kysymystä, kuvat, nuolimerkinnät, valikot ja teemat säilyvät ennallaan.
 
-**Älä lataa pelkkää ZIP-tiedostoa repositorion juureen.**
+## GitHub main -päivitys
+
+**Suositus: lataa ainoastaan päivitetty `latin.js`** repositorion juureen, korvaa vanha tiedosto ja tee commit. Koko ZIP sisältää myös muuttumattomat tiedostot, jos haluat päivittää koko paketin.
+
+## Tarkistukset
+
+- 161 lukittua kuvakysymystä ja 76 latinankielistä nimiparia laskettu lähdedatasta.
+- Oikeat vastaukset tulevat edelleen kunkin kysymyksen `a`-kentästä.
+- Latinankielinen termi korjataan näyttöä varten viidessä kohdassa.
+- JavaScript-syntaksitarkistus ja ZIP-tiedoston eheys tarkistettu.
+
+Tämä on rajattu kirjoitusasu- ja yhdenmukaistamiskorjaus, ei riippumaton kaikkien 76 termin lähdetarkistus.
