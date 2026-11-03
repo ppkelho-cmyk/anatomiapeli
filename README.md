@@ -1,9 +1,24 @@
-# Anatomiapeli V8 – Latina → suomi v1.2
+# Anatomiapeli V8 – Latina → suomi – julkaisupaketti
 
-Julkaisupäivitys: Latina → suomi -valikossa näytetään vain järjestelmät, joilla on latinankielisiä nimipareja. Tyhjä Lihakset-kortti poistuu; se palautuu automaattisesti, jos lihaksille lisätään latinankielisiä nimipareja myöhemmin.
+Julkaisupaketti GitHub Pagesin `main`-haaraan.
 
-## Päivitys GitHub Pagesiin
+## Muutokset
+- Latinapelin nimiparit: 76 → 146 (70 uutta opettajan listan nimiparia).
+- Uudet elinjärjestelmät näkyvät Latina → suomi -valikossa.
+- Koko kysymyspankin ja järjestelmäkohtainen harjoittelu säilyvät.
+- Kuvapelin 161 hyväksyttyä kysymystä säilyvät muuttumattomina.
+- Vaalea/tumma tila ja Etusivulle-painike säilyvät.
 
-Korvaa main-haaran juuressa vain `latin.js`. Muita tiedostoja ei tarvitse ladata uudelleen. Tämä ZIP sisältää myös koko julkaisun varmuuden vuoksi.
+## Julkaisu
+Suositeltu vähimmäispäivitys: kopioi `latin_extra.js`, `latin.js` ja
+`latina.html` GitHubin `main`-haaran juureen. `latin_extra.js` on uusi tiedosto.
+Tarkista, että `latina.html` lataa skriptit järjestyksessä:
+`questions.js`, `latin_extra.js`, `latin.js`.
 
-Kuvapelin 161 kysymystä, latinapelin 76 nimiparia ja aiemmat terminologiakorjaukset säilyvät ennallaan.
+ZIP sisältää myös koko toimivan sivuston ja sen paikalliset kuvatiedostot
+varmuuskopiointia tai kokonaisjulkaisua varten. Älä poista GitHubista
+muita tiedostoja, joita tässä paketissa ei mahdollisesti ole.
+
+## Tarkistus
+Avaa GitHub Pagesissa `latina.html`, varmista 146 nimiparia ja kokeile
+eri järjestelmiä sekä kuvapelin avaamista etusivulta.
